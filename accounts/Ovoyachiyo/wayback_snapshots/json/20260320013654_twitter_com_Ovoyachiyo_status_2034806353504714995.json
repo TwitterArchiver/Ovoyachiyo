@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2034375193670701222",
+    "created_at": "2026-03-20T01:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T02:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034806353504714995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "831505321495392256",
+          "start": 0,
+          "username": "_Qincii"
+        },
+        {
+          "end": 23,
+          "id": "1744207911616753664",
+          "start": 9,
+          "username": "ASLANT1025533"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034806353504714995",
+    "in_reply_to_user_id": "831505321495392256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034375193670701222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Qincii @ASLANT1025533 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2034375193670701222",
+        "created_at": "2026-03-20T01:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034806353504714995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "831505321495392256",
+              "start": 0,
+              "username": "_Qincii"
+            },
+            {
+              "end": 23,
+              "id": "1744207911616753664",
+              "start": 9,
+              "username": "ASLANT1025533"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034806353504714995",
+        "in_reply_to_user_id": "831505321495392256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034375193670701222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Qincii @ASLANT1025533 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "831505321495392256",
+        "conversation_id": "2034375193670701222",
+        "created_at": "2026-03-18T21:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T22:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034375193670701222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034375193670701222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11671,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 122,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖搞波流量，好无聊：\n\n一等奖：88r（1人）\n二等奖：52r（2人）\n三等奖：18r（3人）\n参与奖：5.2r（10人）\n\n转发➕评论即可参与，感兴趣可以互fo找我聊天^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 157,
+          "like_count": 248,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T14:08:12.000Z",
+        "description": "可以叫我小业，发点日常、碎碎念，成分复杂^^感兴趣可互fo",
+        "id": "831505321495392256",
+        "name": "Vrrz_",
+        "pinned_tweet_id": "1479028152185671680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033262304448622592/AaMN38G4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 29,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 49
+        },
+        "username": "_Qincii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T04:02:38.000Z",
+        "description": "⚠️我不搞黃我是純綠性騷擾的別他媽直接DM⚠️\n💬：🇨🇳中文/🇺🇸eng（a little)/🇯🇵日本語翻訳機で読んでいます\n#07/#自傷/#リスカ/#shtwt/#OD/#病み垢/#依存相手募集中\n什麼圈子都搞會發畫發日常也會發血圖，歡迎互fo，擴列可以DM但是我在內網不公開發血圖我怕被封\n🔗提問箱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 67,
+                "tag": "自傷"
+              },
+              {
+                "end": 75,
+                "start": 71,
+                "tag": "リスカ"
+              },
+              {
+                "end": 82,
+                "start": 76,
+                "tag": "shtwt"
+              },
+              {
+                "end": 86,
+                "start": 83,
+                "tag": "OD"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "病み垢"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "tag": "依存相手募集中"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aslant1601",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aslant1601",
+                "start": 0,
+                "url": "https://t.co/Nol50rRJ4x"
+              }
+            ]
+          }
+        },
+        "id": "1744207911616753664",
+        "location": "我死了。",
+        "name": "ASLANT",
+        "pinned_tweet_id": "2033461523339702620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033420052398313473/h010-GMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 478,
+          "like_count": 2052,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 929
+        },
+        "url": "https://t.co/Nol50rRJ4x",
+        "username": "ASLANT1025533",
+        "verified": false
+      }
+    ]
+  }
+}

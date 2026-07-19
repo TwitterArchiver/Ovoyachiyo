@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2069819534874399125",
+    "created_at": "2026-06-24T17:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069828493811327118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1276148275175755776",
+          "start": 0,
+          "username": "Haokuno_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069828493811327118",
+    "in_reply_to_user_id": "1276148275175755776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069819534874399125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haokuno_0 生日快乐呀 (*≧▽≦)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069819513953210377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl54a5aUAkkthz.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2069819534874399125",
+        "created_at": "2026-06-24T17:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069828493811327118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069828493811327118",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069819534874399125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 生日快乐呀 (*≧▽≦)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069819513953210377"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "conversation_id": "2069819534874399125",
+        "created_at": "2026-06-24T16:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069819534874399125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhWvBEz7eE",
+              "end": 32,
+              "expanded_url": "https://x.com/Haokuno_0/status/2069819534874399125/photo/1",
+              "media_key": "3_2069819513953210377",
+              "start": 9,
+              "url": "https://t.co/lhWvBEz7eE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069819534874399125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来我资料看气球🎈 https://t.co/lhWvBEz7eE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 407,
+          "like_count": 631,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T🦁\n死亡不是终点\n祝大家天天开心\n看到喜欢的会回fo",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2044065340317892611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 99,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

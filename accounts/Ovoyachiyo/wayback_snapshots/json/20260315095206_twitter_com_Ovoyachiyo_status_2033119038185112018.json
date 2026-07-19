@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2033115779575820461",
+    "created_at": "2026-03-15T09:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033119038185112018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711065980959698944",
+          "start": 0,
+          "username": "gngcichfny25600"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033119038185112018",
+    "in_reply_to_user_id": "1711065980959698944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033115779575820461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gngcichfny25600 哎呀我蹲一下，祝你天天开心！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2033115779575820461",
+        "created_at": "2026-03-15T09:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033119038185112018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711065980959698944",
+              "start": 0,
+              "username": "gngcichfny25600"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033119038185112018",
+        "in_reply_to_user_id": "1711065980959698944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033115779575820461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gngcichfny25600 哎呀我蹲一下，祝你天天开心！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711065980959698944",
+        "conversation_id": "2033115779575820461",
+        "created_at": "2026-03-15T09:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033115779575820461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033115779575820461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的互关里有没有想让我入门的，今天心情好抽一个入门，仅限互关，评论参与，门槛100以下，以上无效。谢谢大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 136,
+          "like_count": 237,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T17:08:37.000Z",
+        "description": "被分割开的天空 潮湿不堪的水泥地 零散的垃圾 不合时宜的雨\n在无人理会的地方，我死去了。",
+        "id": "1711065980959698944",
+        "location": "距离你1.8公里",
+        "name": "在无人理会的地方我死去了（互fo",
+        "pinned_tweet_id": "2030931569733734792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016158814202990593/OOhHmG_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 1734,
+          "like_count": 9747,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 2445
+        },
+        "username": "gngcichfny25600",
+        "verified": false
+      }
+    ]
+  }
+}

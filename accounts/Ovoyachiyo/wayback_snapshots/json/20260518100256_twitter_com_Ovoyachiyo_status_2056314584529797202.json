@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2056240549452210375",
+    "created_at": "2026-05-18T10:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056314584529797202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883117066812882944",
+          "start": 0,
+          "username": "jituiroubaogu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056314584529797202",
+    "in_reply_to_user_id": "1883117066812882944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056240549452210375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jituiroubaogu 贵还有概率卡海关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2056240549452210375",
+        "created_at": "2026-05-18T10:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056314584529797202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jituiroubaogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056314584529797202",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056240549452210375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jituiroubaogu 贵还有概率卡海关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2056240549452210375",
+        "created_at": "2026-05-18T05:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056240549452210375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056240549452210375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨国快递是不是很贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 328,
+          "like_count": 448,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 827
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 688,
+          "like_count": 2465,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

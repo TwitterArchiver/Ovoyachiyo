@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2028812210341130686",
+    "created_at": "2026-03-03T12:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028812210341130686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805525876433731584",
+          "start": 3,
+          "username": "Ftuzi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028812210341130686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028148957721891289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ftuzi_: 其实和网友这样互相点赞，好像小动物串门呀，感觉特别萌。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2028812210341130686",
+        "created_at": "2026-03-03T12:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028812210341130686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805525876433731584",
+              "start": 3,
+              "username": "Ftuzi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028812210341130686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028148957721891289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ftuzi_: 其实和网友这样互相点赞，好像小动物串门呀，感觉特别萌。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805525876433731584",
+        "conversation_id": "2028148957721891289",
+        "created_at": "2026-03-01T16:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028148957721891289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028148957721891289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 56129,
+          "like_count": 1790,
+          "quote_count": 7,
+          "reply_count": 106,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "其实和网友这样互相点赞，好像小动物串门呀，感觉特别萌。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 104,
+          "like_count": 199,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T08:58:25.000Z",
+        "description": "淡淡地游荡互联网中",
+        "id": "1805525876433731584",
+        "name": "兔子不吃胡萝卜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024788542350843905/Fvm1Cbj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 44,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 339
+        },
+        "username": "Ftuzi_",
+        "verified": false
+      }
+    ]
+  }
+}

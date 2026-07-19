@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2066728972084449628",
+    "created_at": "2026-06-16T13:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066870195327824294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650209029724196865",
+          "start": 0,
+          "username": "KarBwk5251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066870195327824294",
+    "in_reply_to_user_id": "1650209029724196865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066728972084449628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarBwk5251 让我猜猜，异色雪峰老师的嘴唇是不是紫的🤓👆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1065,
+        "media_key": "3_2066728966183137280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5_C3RbMAAZWv4.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2066728972084449628",
+        "created_at": "2026-06-16T13:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066870195327824294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650209029724196865",
+              "start": 0,
+              "username": "KarBwk5251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066870195327824294",
+        "in_reply_to_user_id": "1650209029724196865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066728972084449628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarBwk5251 让我猜猜，异色雪峰老师的嘴唇是不是紫的🤓👆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066728966183137280"
+          ]
+        },
+        "author_id": "1650209029724196865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066728972084449628",
+        "created_at": "2026-06-16T03:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066728972084449628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdtv9fhewv",
+              "end": 23,
+              "expanded_url": "https://x.com/KarBwk5251/status/2066728972084449628/photo/1",
+              "media_key": "3_2066728966183137280",
+              "start": 0,
+              "url": "https://t.co/vdtv9fhewv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066728972084449628",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vdtv9fhewv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 409,
+          "like_count": 613,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T18:44:49.000Z",
+        "description": "我是小桃\n🐱叫圈圈\n非二元\n乐乐\n不看黄也不建政（假的）我是中推最美逆行人",
+        "id": "1650209029724196865",
+        "location": "Yuki是我的宝宝～(^з^)-♡",
+        "name": "☔️8964.星露谷骑手桃酱☔️",
+        "pinned_tweet_id": "2061734360253186517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062205980759527424/7r6Wt9gF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 1936,
+          "like_count": 11555,
+          "listed_count": 3,
+          "media_count": 1934,
+          "tweet_count": 8675
+        },
+        "username": "KarBwk5251",
+        "verified": false
+      }
+    ]
+  }
+}

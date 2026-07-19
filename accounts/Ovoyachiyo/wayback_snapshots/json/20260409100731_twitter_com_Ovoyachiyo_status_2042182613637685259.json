@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2042182613637685259",
+    "created_at": "2026-04-09T10:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042182613637685259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1916096142359810048",
+          "start": 3,
+          "username": "Manning0119ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042182613637685259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042118815199396068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Manning0119ovo: 不知不觉快200fo了，做个小抽奖感谢宝宝们，转+fo参与，5位5.2r🤍🤍过几天还会有更大的抽奖( ´▽｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2042182613637685259",
+        "created_at": "2026-04-09T10:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042182613637685259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1916096142359810048",
+              "start": 3,
+              "username": "Manning0119ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042182613637685259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042118815199396068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Manning0119ovo: 不知不觉快200fo了，做个小抽奖感谢宝宝们，转+fo参与，5位5.2r🤍🤍过几天还会有更大的抽奖( ´▽｀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916096142359810048",
+        "conversation_id": "2042118815199396068",
+        "created_at": "2026-04-09T05:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042118815199396068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042118815199396068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉快200fo了，做个小抽奖感谢宝宝们，转+fo参与，5位5.2r🤍🤍过几天还会有更大的抽奖( ´▽｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 216,
+          "like_count": 307,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T11:45:02.000Z",
+        "description": "可以叫我小宁\n我现在对未来没有任何希望｜od｜王者｜大学休学焦抑治疗中｜好说话几乎没有雷点 欢迎来找我聊天呀",
+        "id": "1916096142359810048",
+        "location": "v🚪10（聊天+puq）🚪52半绿/qq免费（不常更）",
+        "name": "冰水母IvySerenity",
+        "pinned_tweet_id": "2035374438393475495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366307195371520/4GUjoILc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 160,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 147
+        },
+        "username": "Manning0119ovo",
+        "verified": false
+      }
+    ]
+  }
+}

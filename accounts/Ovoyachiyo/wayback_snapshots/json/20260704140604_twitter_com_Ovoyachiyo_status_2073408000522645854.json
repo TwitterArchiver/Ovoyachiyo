@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2072942186870854038",
+    "created_at": "2026-07-04T14:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073408000522645854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054410525854072832",
+          "start": 0,
+          "username": "Yang1shuai2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073408000522645854",
+    "in_reply_to_user_id": "2054410525854072832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072942186870854038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yang1shuai2 问问价！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2072942186870854038",
+        "created_at": "2026-07-04T14:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073408000522645854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054410525854072832",
+              "start": 0,
+              "username": "Yang1shuai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073408000522645854",
+        "in_reply_to_user_id": "2054410525854072832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072942186870854038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yang1shuai2 问问价！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054410525854072832",
+        "conversation_id": "2072942186870854038",
+        "created_at": "2026-07-03T07:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072942186870854038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072942186870854038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pea有人要嘛？几十克没量过 我留着没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 407,
+          "like_count": 641,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T03:58:12.000Z",
+        "description": "Oder 策划药 双相 实验",
+        "id": "2054410525854072832",
+        "name": "Mr.me",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066204021019578368/2ZfhzXkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Yang1shuai2",
+        "verified": false
+      }
+    ]
+  }
+}

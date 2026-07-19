@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2019390684160290857",
+    "created_at": "2026-02-06T12:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T13:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019755718338040121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761208815088001024",
+          "start": 0,
+          "username": "_Bad_Meow_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019755718338040121",
+    "in_reply_to_user_id": "1761208815088001024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019390684160290857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Bad_Meow_ 我不喜欢吃巧克力，因为我初中喜欢两年的直女不喜欢吃。碎花翻唱的UFO特别好听，是我和前妻一起听的第一首歌，至今仍是我最爱的歌。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2019390684160290857",
+        "created_at": "2026-02-06T12:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019755718338040121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761208815088001024",
+              "start": 0,
+              "username": "_Bad_Meow_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019755718338040121",
+        "in_reply_to_user_id": "1761208815088001024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019390684160290857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Bad_Meow_ 我不喜欢吃巧克力，因为我初中喜欢两年的直女不喜欢吃。碎花翻唱的UFO特别好听，是我和前妻一起听的第一首歌，至今仍是我最爱的歌。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761208815088001024",
+        "conversation_id": "2019390684160290857",
+        "created_at": "2026-02-05T12:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019390684160290857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/hsn8086/status/2018960009535918084",
+              "start": 23,
+              "url": "https://t.co/VSh7giT1bN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019390684160290857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 683,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018960009535918084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五分糖的苹果奶绿超级好喝，是我前亲推荐给我的 https://t.co/VSh7giT1bN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T01:58:04.000Z",
+        "description": "精神病餐券割手女🔪🩸︱友好不鉴证谢谢！︱可以称呼我为饼干︱休学家里蹲︱OD💊︱同类互fo︱画画︱私信我时只说“你好”不会给予任何回复︱无🚪但给我打零食钱的话我会很喜欢你（用不了支付宝😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cookie88211",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cookie88211",
+                "start": 0,
+                "url": "https://t.co/k9b4PZvg4N"
+              }
+            ]
+          }
+        },
+        "id": "1761208815088001024",
+        "location": "家",
+        "name": "┃☆饼干饼干☆┃",
+        "pinned_tweet_id": "2018454229028143380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008258914010415105/8V-a0CWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 317,
+          "like_count": 1759,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/k9b4PZvg4N",
+        "username": "_Bad_Meow_",
+        "verified": false
+      }
+    ]
+  }
+}

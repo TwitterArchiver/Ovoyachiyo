@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2039274521757413820",
+    "created_at": "2026-04-01T09:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T10:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039274521757413820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039274521757413820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039138354856665156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 我是小遥！\n双 | 顺女\n❗️想和天使女孩们互关🥺💖（记得私戳我回fo）\n友跨，不参与任何圈子 不吵架\n会发各种文案和碎碎念以及少量自拍\n好相处喵 欢迎和我玩 会记住经常和我互动的宝宝！（男女都可 熟悉了就会回关\n可以找我聊天喵\n不忙看见一般都…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 697,
+        "media_key": "3_2039138347059429376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEx5hdhawAAv8xC.jpg",
+        "width": 1190
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2039138347051016192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEx5hdfaYAApMab.jpg",
+        "width": 2048
+      },
+      {
+        "height": 923,
+        "media_key": "3_2039138347059449856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEx5hdhbEAArNMh.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2039138347072040960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEx5hdkbMAAuAnM.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2039274521757413820",
+        "created_at": "2026-04-01T09:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039274521757413820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039274521757413820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039138354856665156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 我是小遥！\n双 | 顺女\n❗️想和天使女孩们互关🥺💖（记得私戳我回fo）\n友跨，不参与任何圈子 不吵架\n会发各种文案和碎碎念以及少量自拍\n好相处喵 欢迎和我玩 会记住经常和我互动的宝宝！（男女都可 熟悉了就会回关\n可以找我聊天喵\n不忙看见一般都…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039138347059429376",
+            "3_2039138347051016192",
+            "3_2039138347059449856",
+            "3_2039138347072040960"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2039138354856665156",
+        "created_at": "2026-04-01T00:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039138354856665156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Pes0demBy",
+              "end": 164,
+              "expanded_url": "https://x.com/Miiharukawa/status/2039138354856665156/photo/1",
+              "media_key": "3_2039138347059429376",
+              "start": 141,
+              "url": "https://t.co/4Pes0demBy"
+            },
+            {
+              "display_url": "pic.x.com/4Pes0demBy",
+              "end": 164,
+              "expanded_url": "https://x.com/Miiharukawa/status/2039138354856665156/photo/1",
+              "media_key": "3_2039138347051016192",
+              "start": 141,
+              "url": "https://t.co/4Pes0demBy"
+            },
+            {
+              "display_url": "pic.x.com/4Pes0demBy",
+              "end": 164,
+              "expanded_url": "https://x.com/Miiharukawa/status/2039138354856665156/photo/1",
+              "media_key": "3_2039138347059449856",
+              "start": 141,
+              "url": "https://t.co/4Pes0demBy"
+            },
+            {
+              "display_url": "pic.x.com/4Pes0demBy",
+              "end": 164,
+              "expanded_url": "https://x.com/Miiharukawa/status/2039138354856665156/photo/1",
+              "media_key": "3_2039138347072040960",
+              "start": 141,
+              "url": "https://t.co/4Pes0demBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039138354856665156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1282,
+          "like_count": 56,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我是小遥！\n双 | 顺女\n❗️想和天使女孩们互关🥺💖（记得私戳我回fo）\n友跨，不参与任何圈子 不吵架\n会发各种文案和碎碎念以及少量自拍\n好相处喵 欢迎和我玩 会记住经常和我互动的宝宝！（男女都可 熟悉了就会回关\n可以找我聊天喵\n不忙看见一般都会回\n爱你们呀💖\n和你互动就是喜欢你 https://t.co/4Pes0demBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 198,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 160,
+          "like_count": 4026,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 1269
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

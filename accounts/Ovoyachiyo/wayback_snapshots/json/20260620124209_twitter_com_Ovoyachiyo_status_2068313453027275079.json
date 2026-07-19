@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2068287178812321915",
+    "created_at": "2026-06-20T12:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068313453027275079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909626688675475456",
+          "start": 0,
+          "username": "Afteranone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068313453027275079",
+    "in_reply_to_user_id": "1909626688675475456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068287178812321915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Afteranone 抱抱你吧宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2068287178812321915",
+        "created_at": "2026-06-20T12:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068313453027275079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909626688675475456",
+              "start": 0,
+              "username": "Afteranone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068313453027275079",
+        "in_reply_to_user_id": "1909626688675475456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068287178812321915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Afteranone 抱抱你吧宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909626688675475456",
+        "conversation_id": "2068287178812321915",
+        "created_at": "2026-06-20T10:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068287178812321915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Afteranone/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Afteranone/status/2068282182704263581",
+              "start": 27,
+              "url": "https://t.co/NUen5f8Sw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068287178812321915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068282182704263581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真死了吧你对B站上陌生粉丝的祝福的回应都比对我热情 https://t.co/NUen5f8Sw7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 406,
+          "like_count": 625,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T15:18:28.000Z",
+        "description": "未完成品/网络幽灵/微活中\n欢迎来和我多说说话！！",
+        "id": "1909626688675475456",
+        "name": "Satline",
+        "pinned_tweet_id": "2001216761035940230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061700549687541760/wg16RuXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 117,
+          "like_count": 1241,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 902
+        },
+        "url": "",
+        "username": "Afteranone",
+        "verified": false
+      }
+    ]
+  }
+}

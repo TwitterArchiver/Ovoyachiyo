@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2049485349223891133",
+    "created_at": "2026-04-29T23:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049625515070480731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836041585475346432",
+          "start": 0,
+          "username": "LolingVerse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049625515070480731",
+    "in_reply_to_user_id": "1836041585475346432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049532648021008860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LolingVerse 好的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2049485349223891133",
+        "created_at": "2026-04-29T23:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049625515070480731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836041585475346432",
+              "start": 0,
+              "username": "LolingVerse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049625515070480731",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049532648021008860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolingVerse 好的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2049485349223891133",
+        "created_at": "2026-04-29T16:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049532648021008860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049532648021008860",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049485349223891133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 可以，但是要其实要试验药效。以防不一样的体感不适应影响发挥。至于对分数的影响情况，也可以用几次考试试验一下。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 283,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 @nozomixlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 140,
+          "like_count": 16438,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 3158
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      }
+    ]
+  }
+}

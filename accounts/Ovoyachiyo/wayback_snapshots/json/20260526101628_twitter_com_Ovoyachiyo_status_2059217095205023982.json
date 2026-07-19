@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2059154135145214301",
+    "created_at": "2026-05-26T10:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059217095205023982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059217095205023982",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059154135145214301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 你们怎么都在贴票😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2059154129633824769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOVxWKaUAEH67d.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1192,
+        "media_key": "3_2059154129629675520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOVxWJbAAAk7sz.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2059154135145214301",
+        "created_at": "2026-05-26T10:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059217095205023982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059217095205023982",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059154135145214301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 你们怎么都在贴票😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059154129633824769",
+            "3_2059154129629675520"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2059154135145214301",
+        "created_at": "2026-05-26T06:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059154135145214301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdGeWVdWoV",
+              "end": 32,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2059154135145214301/photo/1",
+              "media_key": "3_2059154129633824769",
+              "start": 9,
+              "url": "https://t.co/kdGeWVdWoV"
+            },
+            {
+              "display_url": "pic.x.com/kdGeWVdWoV",
+              "end": 32,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2059154135145214301/photo/1",
+              "media_key": "3_2059154129629675520",
+              "start": 9,
+              "url": "https://t.co/kdGeWVdWoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059154135145214301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3029,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们怎么都在贴票 https://t.co/kdGeWVdWoV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 352,
+          "like_count": 497,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。看成分互fo👯‍♂️\n有些关注没有消息提示 所以优先回fo有互动的\n智商很低所以任何攻击都无效 认真你就输了",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "pinned_tweet_id": "2058836989848547598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 114,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 491
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

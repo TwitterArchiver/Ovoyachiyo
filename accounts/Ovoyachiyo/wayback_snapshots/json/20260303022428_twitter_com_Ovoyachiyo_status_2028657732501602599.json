@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028277747077029888",
+        "3_2028277747081154560"
+      ],
+      "media_source_tweet_id": [
+        "2028277755562103240",
+        "2028277755562103240"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "conversation_id": "2028657732501602599",
+    "created_at": "2026-03-03T02:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T03:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028657732501602599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014291297688055808",
+          "start": 3,
+          "username": "4ivryyeco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UY5UUIJxGZ",
+          "end": 61,
+          "expanded_url": "https://x.com/4ivrywbu8V8/status/2028277755562103240/photo/1",
+          "media_key": "3_2028277747077029888",
+          "start": 38,
+          "url": "https://t.co/UY5UUIJxGZ"
+        },
+        {
+          "display_url": "pic.x.com/UY5UUIJxGZ",
+          "end": 61,
+          "expanded_url": "https://x.com/4ivrywbu8V8/status/2028277755562103240/photo/1",
+          "media_key": "3_2028277747081154560",
+          "start": 38,
+          "url": "https://t.co/UY5UUIJxGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028657732501602599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028277755562103240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @4ivryyeco: 置顶🔝\n我很穷\n转发这条抽三个88\n一周后开 https://t.co/UY5UUIJxGZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028657732501602599].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028657732501602599",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028657732501602599"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028277747077029888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXj3VxbIAAyAg6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 785,
+        "media_key": "3_2028277747081154560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXj3VyaEAAUyO5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028277747077029888",
+            "3_2028277747081154560"
+          ]
+        },
+        "author_id": "2014291297688055808",
+        "conversation_id": "2028277755562103240",
+        "created_at": "2026-03-02T01:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028277755562103240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UY5UUIJxGZ",
+              "end": 46,
+              "expanded_url": "https://x.com/4ivrywbu8V8/status/2028277755562103240/photo/1",
+              "media_key": "3_2028277747077029888",
+              "start": 23,
+              "url": "https://t.co/UY5UUIJxGZ"
+            },
+            {
+              "display_url": "pic.x.com/UY5UUIJxGZ",
+              "end": 46,
+              "expanded_url": "https://x.com/4ivrywbu8V8/status/2028277755562103240/photo/1",
+              "media_key": "3_2028277747081154560",
+              "start": 23,
+              "url": "https://t.co/UY5UUIJxGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028277755562103240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1674,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "置顶🔝\n我很穷\n转发这条抽三个88\n一周后开 https://t.co/UY5UUIJxGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 101,
+          "like_count": 194,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T10:57:46.000Z",
+        "description": "私信只回门槛口令 坐标问题均25",
+        "id": "2014291297688055808",
+        "location": "🚪188/288/520/888/1314",
+        "name": "4ivry",
+        "pinned_tweet_id": "2028277755562103240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028640014125727744/SI1BC_0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "4ivryyeco",
+        "verified": false
+      }
+    ]
+  }
+}

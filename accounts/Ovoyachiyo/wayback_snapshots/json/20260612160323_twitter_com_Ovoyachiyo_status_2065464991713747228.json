@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2065393716685410576",
+    "created_at": "2026-06-12T16:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065464991713747228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065464991713747228",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065393716685410576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo 啊啊好想加入糯米加一起吃美味蘑菇（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2065393716685410576",
+        "created_at": "2026-06-12T16:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065464991713747228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065464991713747228",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065393716685410576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 啊啊好想加入糯米加一起吃美味蘑菇（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065393716685410576",
+        "created_at": "2026-06-12T11:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065393716685410576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065393716685410576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2194,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从上次我妈把我蘑菇煲汤以后我剧烈骂了她一顿，然后我们约定我再放危化品进冰箱必须贴好标签，而她也必须不得乱动！\n一个真不怕死一个真不怕死！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 395,
+          "like_count": 597,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 857,
+          "like_count": 2205,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1595
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

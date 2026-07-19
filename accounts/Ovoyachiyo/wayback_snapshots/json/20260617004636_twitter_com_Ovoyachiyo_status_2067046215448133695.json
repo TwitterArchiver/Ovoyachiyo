@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2067006139686953145",
+    "created_at": "2026-06-17T00:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067046215448133695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1409546044124262405",
+          "start": 0,
+          "username": "fsj9806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067046215448133695",
+    "in_reply_to_user_id": "1409546044124262405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067006139686953145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fsj9806 老公带我走…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2067006139686953145",
+        "created_at": "2026-06-17T00:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067046215448133695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1409546044124262405",
+              "start": 0,
+              "username": "fsj9806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067046215448133695",
+        "in_reply_to_user_id": "1409546044124262405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067006139686953145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fsj9806 老公带我走…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409546044124262405",
+        "conversation_id": "2067006139686953145",
+        "created_at": "2026-06-16T22:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067006139686953145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067006139686953145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个号好像没什么流量了，我要不要注销"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 405,
+          "like_count": 613,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1316
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T16:15:59.000Z",
+        "description": "=零點\nshtwt相關慎入\n偶爾會發些畫\n回關私信(^_^) \n我最近都特別無聊.歡迎找我玩",
+        "id": "1409546044124262405",
+        "name": "负视界",
+        "pinned_tweet_id": "1830440397098926144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063965602163941377/MRjx13Jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 803,
+          "like_count": 3046,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 203
+        },
+        "username": "fsj9806",
+        "verified": false
+      }
+    ]
+  }
+}

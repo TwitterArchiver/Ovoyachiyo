@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2051187125853298837",
+    "created_at": "2026-05-04T10:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051249068052287681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "enaslove392"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051249068052287681",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051187125853298837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enaslove392 可是那样我就遇不到你了TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2051187125853298837",
+        "created_at": "2026-05-04T10:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051249068052287681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "enaslove392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051249068052287681",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051187125853298837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enaslove392 可是那样我就遇不到你了TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2051187125853298837",
+        "created_at": "2026-05-04T06:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051187125853298837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051187125853298837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2024年我都把亚硝酸钠拿到手了，我从那时候我就该死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 298,
+          "like_count": 381,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "✟贈予你微笑的小天使降臨！照耀互聯網的一束聖光！執著渴望著幸福！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/enarasa",
+                "end": 23,
+                "expanded_url": "https://ngl.link/enarasa",
+                "start": 0,
+                "url": "https://t.co/0C52FwXTnR"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "✟天國✟",
+        "name": "心生活運動♡",
+        "pinned_tweet_id": "2050922765436199315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050528289807093760/kCOZlKSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 80,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/0C52FwXTnR",
+        "username": "enaslove392",
+        "verified": false
+      }
+    ]
+  }
+}

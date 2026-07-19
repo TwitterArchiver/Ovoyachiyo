@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055277382081376256",
+        "3_2055277382198824960"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10033247448",
+          "name": "笑点"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      }
+    ],
+    "conversation_id": "2055277522728964286",
+    "created_at": "2026-05-15T13:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055277522728964286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1Ry2mcIIi",
+          "end": 29,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2055277522728964286/photo/1",
+          "media_key": "3_2055277382081376256",
+          "start": 6,
+          "url": "https://t.co/h1Ry2mcIIi"
+        },
+        {
+          "display_url": "pic.x.com/h1Ry2mcIIi",
+          "end": 29,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2055277522728964286/photo/1",
+          "media_key": "3_2055277382198824960",
+          "start": 6,
+          "url": "https://t.co/h1Ry2mcIIi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055277522728964286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑点解析： https://t.co/h1Ry2mcIIi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055277382081376256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXP48Ha8AAfgzg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055277382198824960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXP48jbEAAljnT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055277382081376256",
+            "3_2055277382198824960"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "2055277522728964286",
+        "created_at": "2026-05-15T13:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055277522728964286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1Ry2mcIIi",
+              "end": 29,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2055277522728964286/photo/1",
+              "media_key": "3_2055277382081376256",
+              "start": 6,
+              "url": "https://t.co/h1Ry2mcIIi"
+            },
+            {
+              "display_url": "pic.x.com/h1Ry2mcIIi",
+              "end": 29,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2055277522728964286/photo/1",
+              "media_key": "3_2055277382198824960",
+              "start": 6,
+              "url": "https://t.co/h1Ry2mcIIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055277522728964286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑点解析： https://t.co/h1Ry2mcIIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 320,
+          "like_count": 425,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

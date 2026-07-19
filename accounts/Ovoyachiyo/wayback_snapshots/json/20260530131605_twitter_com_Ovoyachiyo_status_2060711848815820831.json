@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2060664072815976600",
+    "created_at": "2026-05-30T13:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060711848815820831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060711848815820831",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060664072815976600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 小殺才没有没用！（揉搓🫳）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2060664072815976600",
+        "created_at": "2026-05-30T13:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060711848815820831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060711848815820831",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060664072815976600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 小殺才没有没用！（揉搓🫳）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2060664072815976600",
+        "created_at": "2026-05-30T10:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060664072815976600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koroshiiiiiii/…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/koroshiiiiiii/status/2060661074832338944",
+              "start": 97,
+              "url": "https://t.co/yRh0Pd62Gd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060664072815976600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060661074832338944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯...喝下了一会，我说我肚子疼，母亲说一出门就这疼那疼的，一点都没（用，没有说出口）一点都没有年轻人的样子，听到的那一刻，我眼泪已经掉下来了，我说连妈妈都觉得我没用了，我到底还有什么用... https://t.co/yRh0Pd62Gd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2060005190175182883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 360,
+          "like_count": 520,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 292,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

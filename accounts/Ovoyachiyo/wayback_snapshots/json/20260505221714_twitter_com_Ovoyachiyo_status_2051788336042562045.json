@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2051788336042562045",
+    "created_at": "2026-05-05T22:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T23:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051788336042562045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2051682020347326464",
+          "start": 3,
+          "username": "PhonyR22701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051788336042562045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051683599741771998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PhonyR22701: 转发关注评论抽奖\n抽1t 4-ho-met\n六周目堂堂复活！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2051788336042562045",
+        "created_at": "2026-05-05T22:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051788336042562045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051682020347326464",
+              "start": 3,
+              "username": "PhonyR22701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051788336042562045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051683599741771998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PhonyR22701: 转发关注评论抽奖\n抽1t 4-ho-met\n六周目堂堂复活！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051682020347326464",
+        "conversation_id": "2051683599741771998",
+        "created_at": "2026-05-05T15:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051683599741771998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051683599741771998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 806,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "转发关注评论抽奖\n抽1t 4-ho-met\n六周目堂堂复活！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 303,
+          "like_count": 386,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T15:14:54.000Z",
+        "description": "对象@Sunset__3000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Sunset__3000"
+              }
+            ]
+          }
+        },
+        "id": "2051682020347326464",
+        "name": "异世界优泠#六周目",
+        "pinned_tweet_id": "2051683400168423461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051682089570033664/vi9Qt5M2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 8,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "PhonyR22701",
+        "verified": false
+      }
+    ]
+  }
+}

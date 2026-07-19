@@ -1,0 +1,20 @@
+{
+  "name": "句号Ovo",
+  "username": "@Ovoyachiyo",
+  "bio": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+  "location": "架见崎站南检票口前",
+  "link": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 59,
+        "start": 50,
+        "username": "Ovojuhao"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg"
+}

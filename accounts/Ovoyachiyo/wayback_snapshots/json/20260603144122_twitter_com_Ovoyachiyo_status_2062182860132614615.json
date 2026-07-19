@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2062173455861387464",
+    "created_at": "2026-06-03T14:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062182860132614615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "P_chan_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062182860132614615",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062173455861387464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P_chan_neko 抱抱阿P猫猫~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2062173455861387464",
+        "created_at": "2026-06-03T14:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062182860132614615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "P_chan_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062182860132614615",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062173455861387464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P_chan_neko 抱抱阿P猫猫~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2062173455861387464",
+        "created_at": "2026-06-03T14:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062173455861387464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062173455861387464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命啊谁来关心一下可怜的阿P猫猫啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2060005190175182883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 368,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "我是你最喜欢的「people」兼「producer」阿P！人称P酱！你的赛博饮食起居由我来负责！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "守护最可爱的小天使",
+        "name": "阿P",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168823256768512/2LSiZGje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 170,
+          "like_count": 1845,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "P_chan_neko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2050525068074115245",
+    "created_at": "2026-05-02T11:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050544670971973632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1986453582716280834",
+          "start": 0,
+          "username": "insotana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050544670971973632",
+    "in_reply_to_user_id": "1986453582716280834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050525068074115245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@insotana 摸摸小soi🥺…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2050525068074115245",
+        "created_at": "2026-05-02T11:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050544670971973632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1986453582716280834",
+              "start": 0,
+              "username": "insotana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050544670971973632",
+        "in_reply_to_user_id": "1986453582716280834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050525068074115245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@insotana 摸摸小soi🥺…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986453582716280834",
+        "conversation_id": "2050525068074115245",
+        "created_at": "2026-05-02T10:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050525068074115245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050525068074115245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不敢睡觉，害怕做梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 294,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:20:37.000Z",
+        "description": "外部设备连接器降临！^-^尽管我社交障碍，但请放心，你的快乐碎片由我来承担！( ˘ω˘ )／♡",
+        "id": "1986453582716280834",
+        "location": "🏳️‍⚧️",
+        "name": "Soi⁺˳✧༚",
+        "pinned_tweet_id": "2050531953523277893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049470147954655232/fondPd8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 362,
+          "like_count": 11044,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 5792
+        },
+        "username": "insotana",
+        "verified": false
+      }
+    ]
+  }
+}

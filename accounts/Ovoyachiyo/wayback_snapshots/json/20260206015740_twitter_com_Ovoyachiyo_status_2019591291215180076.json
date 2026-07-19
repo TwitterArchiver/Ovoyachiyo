@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019400258791628801",
+        "13_2019400285534449665"
+      ],
+      "media_source_tweet_id": [
+        "2019400445907837354",
+        "2019400445907837354"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "conversation_id": "2019591291215180076",
+    "created_at": "2026-02-06T01:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T02:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019591291215180076"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 28,
+          "tag": "超时空辉夜姬"
+        },
+        {
+          "end": 43,
+          "start": 37,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821614513736781825",
+          "start": 3,
+          "username": "14ManGo1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pwmxl04AAV",
+          "end": 67,
+          "expanded_url": "https://x.com/14ManGo1/status/2019400445907837354/video/1",
+          "media_key": "3_2019400258791628801",
+          "start": 44,
+          "url": "https://t.co/Pwmxl04AAV"
+        },
+        {
+          "display_url": "pic.x.com/Pwmxl04AAV",
+          "end": 67,
+          "expanded_url": "https://x.com/14ManGo1/status/2019400445907837354/video/1",
+          "media_key": "13_2019400285534449665",
+          "start": 44,
+          "url": "https://t.co/Pwmxl04AAV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019591291215180076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019400445907837354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @14ManGo1: 彩叶：我闻到了寿命论的味道\n#超时空辉夜姬 \n#超かぐや姫 https://t.co/Pwmxl04AAV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2019400258791628801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZZ1gybYAE-kFC.jpg",
+        "width": 2480
+      },
+      {
+        "duration_ms": 29400,
+        "height": 1280,
+        "media_key": "13_2019400285534449665",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019400285534449665/img/9eMXNrZhiwwh7RN2.jpg",
+        "public_metrics": {
+          "view_count": 11640
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019400285534449665/vid/avc1/320x452/jCFiE7uQmghiDf6T.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019400285534449665/vid/avc1/480x678/cL2chk-kA4YtMRgW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019400285534449665/vid/avc1/720x1018/Ii0L6TY5pMwHBnd5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019400285534449665/pl/tPZ73AtLoOLVHv8T.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019400258791628801",
+            "13_2019400285534449665"
+          ],
+          "media_source_tweet_id": [
+            "2019400445907837354",
+            "2019400445907837354"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "conversation_id": "2019591291215180076",
+        "created_at": "2026-02-06T01:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T02:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019591291215180076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "超时空辉夜姬"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821614513736781825",
+              "start": 3,
+              "username": "14ManGo1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pwmxl04AAV",
+              "end": 67,
+              "expanded_url": "https://x.com/14ManGo1/status/2019400445907837354/video/1",
+              "media_key": "3_2019400258791628801",
+              "start": 44,
+              "url": "https://t.co/Pwmxl04AAV"
+            },
+            {
+              "display_url": "pic.x.com/Pwmxl04AAV",
+              "end": 67,
+              "expanded_url": "https://x.com/14ManGo1/status/2019400445907837354/video/1",
+              "media_key": "13_2019400285534449665",
+              "start": 44,
+              "url": "https://t.co/Pwmxl04AAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019591291215180076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019400445907837354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @14ManGo1: 彩叶：我闻到了寿命论的味道\n#超时空辉夜姬 \n#超かぐや姫 https://t.co/Pwmxl04AAV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019400258791628801",
+            "13_2019400285534449665"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2019400445907837354",
+        "created_at": "2026-02-05T13:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019400445907837354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "超时空辉夜姬"
+            },
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pwmxl04AAV",
+              "end": 53,
+              "expanded_url": "https://x.com/14ManGo1/status/2019400445907837354/video/1",
+              "media_key": "3_2019400258791628801",
+              "start": 30,
+              "url": "https://t.co/Pwmxl04AAV"
+            },
+            {
+              "display_url": "pic.x.com/Pwmxl04AAV",
+              "end": 53,
+              "expanded_url": "https://x.com/14ManGo1/status/2019400445907837354/video/1",
+              "media_key": "13_2019400285534449665",
+              "start": 30,
+              "url": "https://t.co/Pwmxl04AAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019400445907837354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 33229,
+          "like_count": 2320,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "彩叶：我闻到了寿命论的味道\n#超时空辉夜姬 \n#超かぐや姫 https://t.co/Pwmxl04AAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木",
+        "pinned_tweet_id": "1581220939135479814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32221,
+          "following_count": 119,
+          "like_count": 257,
+          "listed_count": 104,
+          "media_count": 152,
+          "tweet_count": 344
+        },
+        "username": "14ManGo1",
+        "verified": false
+      }
+    ]
+  }
+}

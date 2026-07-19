@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2066392624823714038",
+    "created_at": "2026-06-15T05:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066398056917221578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066398056917221578",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066392624823714038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 我去我也喜欢这个！下次俺来约😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066392610751844352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1NIZpbEAAW1id.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2066392624823714038",
+        "created_at": "2026-06-15T05:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066398056917221578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066398056917221578",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066392624823714038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 我去我也喜欢这个！下次俺来约😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066392610751844352"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2066392624823714038",
+        "created_at": "2026-06-15T05:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066392624823714038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZmDBQB195",
+              "end": 76,
+              "expanded_url": "https://x.com/DrankghostU/status/2066392624823714038/photo/1",
+              "media_key": "3_2066392610751844352",
+              "start": 53,
+              "url": "https://t.co/uZmDBQB195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066392624823714038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在画互关一个天使女孩的稿\n我特别喜欢画地雷女割手手可要要能不能多来点约这种……！？！画的我好开心好兴奋 https://t.co/uZmDBQB195"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 405,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 201,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 715
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

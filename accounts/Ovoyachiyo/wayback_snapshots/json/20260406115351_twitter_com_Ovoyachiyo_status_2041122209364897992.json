@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2041082400445493550",
+    "created_at": "2026-04-06T11:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041122209364897992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883117066812882944",
+          "start": 0,
+          "username": "jituiroubaogu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041122209364897992",
+    "in_reply_to_user_id": "1883117066812882944",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041082400445493550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jituiroubaogu 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2041082400445493550",
+        "created_at": "2026-04-06T11:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041122209364897992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jituiroubaogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041122209364897992",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041082400445493550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jituiroubaogu 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2041082400445493550",
+        "created_at": "2026-04-06T09:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041082400445493550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041082400445493550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 900,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "100fo搞个线上抽奖。？\n一等奖*1 云药愚昧片*3折现24r\n二等奖*2 云药愚昧片*1折现8r\n三等奖*5 得力黑刃美工刀*1折现3r\n参与方式关注+转帖+评论111。\n120fo拿grok开奖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 205,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 165,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

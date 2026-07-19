@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070425482391330816",
+        "3_2070425482404007936"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "conversation_id": "2070425552713089130",
+    "created_at": "2026-06-26T08:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070425552713089130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OzsDaFiFGx",
+          "end": 32,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2070425552713089130/photo/1",
+          "media_key": "3_2070425482391330816",
+          "start": 9,
+          "url": "https://t.co/OzsDaFiFGx"
+        },
+        {
+          "display_url": "pic.x.com/OzsDaFiFGx",
+          "end": 32,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2070425552713089130/photo/1",
+          "media_key": "3_2070425482404007936",
+          "start": 9,
+          "url": "https://t.co/OzsDaFiFGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070425552713089130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已严肃响应号召🫡 https://t.co/OzsDaFiFGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 442,
+        "media_key": "3_2070425482391330816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuhAbPaIAAc4Uc.jpg",
+        "width": 973
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070425482404007936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuhAbSbkAA_oTO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070425482391330816",
+            "3_2070425482404007936"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "conversation_id": "2070425552713089130",
+        "created_at": "2026-06-26T08:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070425552713089130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OzsDaFiFGx",
+              "end": 32,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2070425552713089130/photo/1",
+              "media_key": "3_2070425482391330816",
+              "start": 9,
+              "url": "https://t.co/OzsDaFiFGx"
+            },
+            {
+              "display_url": "pic.x.com/OzsDaFiFGx",
+              "end": 32,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2070425552713089130/photo/1",
+              "media_key": "3_2070425482404007936",
+              "start": 9,
+              "url": "https://t.co/OzsDaFiFGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070425552713089130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃响应号召🫡 https://t.co/OzsDaFiFGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 407,
+          "like_count": 632,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1373
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

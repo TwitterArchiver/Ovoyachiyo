@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2063967925283742132",
+    "created_at": "2026-06-08T13:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063975004644257916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "P_chan_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063975004644257916",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063967925283742132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P_chan_neko 喹硫平死了不解释"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2063967925283742132",
+        "created_at": "2026-06-08T13:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063975004644257916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "P_chan_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063975004644257916",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063967925283742132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P_chan_neko 喹硫平死了不解释"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2063967925283742132",
+        "created_at": "2026-06-08T12:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063967925283742132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063967925283742132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上3t喹硫平让老子睡到现在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2060005190175182883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 380,
+          "like_count": 579,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1143
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "我是你最喜欢的「people」兼「producer」阿P！人称P酱！你的赛博饮食起居由我来负责！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "守护最可爱的小天使",
+        "name": "阿P",
+        "pinned_tweet_id": "2062871387375542778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168823256768512/2LSiZGje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 191,
+          "like_count": 2176,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "P_chan_neko",
+        "verified": true
+      }
+    ]
+  }
+}

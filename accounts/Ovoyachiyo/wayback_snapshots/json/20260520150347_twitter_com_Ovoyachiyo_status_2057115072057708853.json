@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2057084755217351098",
+    "created_at": "2026-05-20T15:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057115072057708853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1560176804115234816",
+          "start": 0,
+          "username": "lingmunaixue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057115072057708853",
+    "in_reply_to_user_id": "1560176804115234816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057084755217351098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingmunaixue_ 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2057084755217351098",
+        "created_at": "2026-05-20T15:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057115072057708853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1560176804115234816",
+              "start": 0,
+              "username": "lingmunaixue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057115072057708853",
+        "in_reply_to_user_id": "1560176804115234816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057084755217351098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingmunaixue_ 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560176804115234816",
+        "conversation_id": "2057084755217351098",
+        "created_at": "2026-05-20T13:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057084755217351098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057084755217351098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 295,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这个时间刷到我的推文你可能也没有人陪吧 抽两个人送520红包\n要求：转发 ➕关注 ➕评论\n5.30号开奖 不满十人评论不开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 337,
+          "like_count": 463,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T08:08:45.000Z",
+        "description": "。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kbg.mi.le.mileoffice.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://kbg.mi.le.mileoffice.com/index.php#/register?code=qpKpbr7a",
+                "start": 0,
+                "url": "https://t.co/Zbr9colgRt"
+              }
+            ]
+          }
+        },
+        "id": "1560176804115234816",
+        "name": "铃木奈雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047766676327051264/4XwWvnrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8077,
+          "following_count": 203,
+          "like_count": 8241,
+          "listed_count": 23,
+          "media_count": 336,
+          "tweet_count": 2252
+        },
+        "url": "https://t.co/Zbr9colgRt",
+        "username": "lingmunaixue_",
+        "verified": true
+      }
+    ]
+  }
+}

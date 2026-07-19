@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2070290285884748279",
+    "created_at": "2026-06-26T03:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070354257589760070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070354257589760070",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070290285884748279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 麦薯好！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9400,
+        "height": 1280,
+        "media_key": "13_2070290228989079552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070290228989079552/img/Kms0AGhX8fIXY_Ri.jpg",
+        "public_metrics": {
+          "view_count": 78
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070290228989079552/vid/avc1/320x568/-1N4HmUAWQBGHcAT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070290228989079552/vid/avc1/480x852/36J87WbGVfRP8U8y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070290228989079552/vid/avc1/720x1280/tq3Aab6-bH0yChHP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070290228989079552/pl/xeDk4czIyzcj1p_7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2070290285884748279",
+        "created_at": "2026-06-26T03:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070354257589760070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070354257589760070",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070290285884748279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 麦薯好！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070290228989079552"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2070290285884748279",
+        "created_at": "2026-06-25T23:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070290285884748279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoWvr0t2Vu",
+              "end": 104,
+              "expanded_url": "https://x.com/DrankghostU/status/2070290285884748279/video/1",
+              "media_key": "13_2070290228989079552",
+              "start": 81,
+              "url": "https://t.co/CoWvr0t2Vu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070290285884748279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我醒来我的左侧胯骨就如同骨折撕裂一般疼痛全身发冷然后疼的我打了120即将要坐人生中第三次救护车。\n这个小麦薯发现我不对就趴在我身上舔舔我的手安慰我陪着我😿😿😿😿 https://t.co/CoWvr0t2Vu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 408,
+          "like_count": 631,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 199,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

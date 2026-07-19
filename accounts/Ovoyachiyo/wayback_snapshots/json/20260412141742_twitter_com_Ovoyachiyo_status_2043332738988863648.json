@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2043305667675726297",
+    "created_at": "2026-04-12T14:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043332738988863648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505767450385690625",
+          "start": 0,
+          "username": "Alistai33955292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043332738988863648",
+    "in_reply_to_user_id": "1505767450385690625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043305667675726297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alistai33955292 亲亲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2043305667675726297",
+        "created_at": "2026-04-12T14:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043332738988863648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505767450385690625",
+              "start": 0,
+              "username": "Alistai33955292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043332738988863648",
+        "in_reply_to_user_id": "1505767450385690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043305667675726297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alistai33955292 亲亲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505767450385690625",
+        "conversation_id": "2043305667675726297",
+        "created_at": "2026-04-12T12:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043305667675726297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043305667675726297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好想和你们永远在一起……我好开心，好幸福……我永远爱你们，所有人，亲亲你们。愿你们永远幸福……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 231,
+          "like_count": 320,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "06丨重焦重抑丨餐券(暂时戒割中)丨同性有浪漫倾向无性恋丨全性别友好丨社交极度恐惧……欢迎互fo！丨🚪52纯绿陪聊可加lxfs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/Xu9CGM7srL"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "0.1km",
+        "name": "🌰",
+        "pinned_tweet_id": "2040861103748731388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042779674183692288/j5CnX52L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 468,
+          "like_count": 1395,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1285
+        },
+        "url": "https://t.co/Xu9CGM7srL",
+        "username": "Alistai33955292",
+        "verified": true
+      }
+    ]
+  }
+}

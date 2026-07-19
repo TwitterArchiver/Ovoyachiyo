@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2049343673712964069",
+    "created_at": "2026-04-29T13:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049482175591125402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049482175591125402",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049343673712964069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug 传奇健全人体验卡普瑞巴林"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049343669388689408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHC7NZybwAAA7Q6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049343670135218176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHC7Ncka4AA3yL5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049343671506739200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHC7NhraoAAf4pP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049343671284465664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHC7Ng2bAAA1U2c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2049343673712964069",
+        "created_at": "2026-04-29T13:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049482175591125402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049482175591125402",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049343673712964069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 传奇健全人体验卡普瑞巴林"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049343669388689408",
+            "3_2049343670135218176",
+            "3_2049343671506739200",
+            "3_2049343671284465664"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049343673712964069",
+        "created_at": "2026-04-29T04:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049343673712964069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t65VTNIzdU",
+              "end": 68,
+              "expanded_url": "https://x.com/Idontselldrug/status/2049343673712964069/photo/1",
+              "media_key": "3_2049343669388689408",
+              "start": 45,
+              "url": "https://t.co/t65VTNIzdU"
+            },
+            {
+              "display_url": "pic.x.com/t65VTNIzdU",
+              "end": 68,
+              "expanded_url": "https://x.com/Idontselldrug/status/2049343673712964069/photo/1",
+              "media_key": "3_2049343670135218176",
+              "start": 45,
+              "url": "https://t.co/t65VTNIzdU"
+            },
+            {
+              "display_url": "pic.x.com/t65VTNIzdU",
+              "end": 68,
+              "expanded_url": "https://x.com/Idontselldrug/status/2049343673712964069/photo/1",
+              "media_key": "3_2049343671506739200",
+              "start": 45,
+              "url": "https://t.co/t65VTNIzdU"
+            },
+            {
+              "display_url": "pic.x.com/t65VTNIzdU",
+              "end": 68,
+              "expanded_url": "https://x.com/Idontselldrug/status/2049343673712964069/photo/1",
+              "media_key": "3_2049343671284465664",
+              "start": 45,
+              "url": "https://t.co/t65VTNIzdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049343673712964069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了普瑞巴林躯体化全没了，爽吃点海鲜\n吃了18个生蚝，最后先撑不住的不是我的胃是我的钱包 https://t.co/t65VTNIzdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 280,
+          "like_count": 362,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 280,
+          "like_count": 2038,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

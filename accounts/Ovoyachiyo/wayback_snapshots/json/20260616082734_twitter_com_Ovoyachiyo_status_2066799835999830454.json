@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2066726588239221205",
+    "created_at": "2026-06-16T08:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066799835999830454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066799835999830454",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066726588239221205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 会有我吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2066726588239221205",
+        "created_at": "2026-06-16T08:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066799835999830454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066799835999830454",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066726588239221205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 会有我吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2066726588239221205",
+        "created_at": "2026-06-16T03:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066726588239221205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066726588239221205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我好想和几个互关处成朋友。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 410,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "alt @pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "pamnc2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@utopia0923_",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@utopia0923_",
+                "start": 0,
+                "url": "https://t.co/sUSgEQkST1"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2065802051372961846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066050332250238976/PRslPyHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 329,
+          "like_count": 37816,
+          "listed_count": 5,
+          "media_count": 723,
+          "tweet_count": 21687
+        },
+        "url": "https://t.co/sUSgEQkST1",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

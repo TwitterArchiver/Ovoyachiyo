@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2068025415055421736",
+    "created_at": "2026-06-20T05:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068206827163300299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1422834884511510528",
+          "start": 0,
+          "username": "angelkawa11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068206827163300299",
+    "in_reply_to_user_id": "1422834884511510528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068155876415086607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawa11 希望是这样…谢谢你！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2068025415055421736",
+        "created_at": "2026-06-20T05:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068206827163300299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1422834884511510528",
+              "start": 0,
+              "username": "angelkawa11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068206827163300299",
+        "in_reply_to_user_id": "1422834884511510528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068155876415086607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawa11 希望是这样…谢谢你！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422834884511510528",
+        "conversation_id": "2068025415055421736",
+        "created_at": "2026-06-20T02:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068155876415086607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068155876415086607",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068025415055421736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 不要想以前啦，你这么可爱的小女孩肯定以后也会被人温柔对待，很幸福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 407,
+          "like_count": 622,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T08:21:01.000Z",
+        "description": "Love and peace.",
+        "id": "1422834884511510528",
+        "name": "233 HIBonY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422834948118093825/KJ-M0UrA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 250,
+          "like_count": 3420,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 625
+        },
+        "url": "",
+        "username": "angelkawa11",
+        "verified": false
+      }
+    ]
+  }
+}

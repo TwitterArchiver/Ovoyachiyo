@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2024691728566112303",
+    "created_at": "2026-02-20T03:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024691728566112303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621259482704625671",
+          "start": 3,
+          "username": "Qinioo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024691728566112303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024540802568089852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qinioo: 中国女同性恋什么时候才能意识到女同性恋是两个女的在谈不是一个长得和男的一样的女的和一个女的谈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2024691728566112303",
+        "created_at": "2026-02-20T03:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024691728566112303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621259482704625671",
+              "start": 3,
+              "username": "Qinioo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024691728566112303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024540802568089852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qinioo: 中国女同性恋什么时候才能意识到女同性恋是两个女的在谈不是一个长得和男的一样的女的和一个女的谈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621259482704625671",
+        "conversation_id": "2024540802568089852",
+        "created_at": "2026-02-19T17:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024540802568089852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024540802568089852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 169064,
+          "like_count": 1463,
+          "quote_count": 10,
+          "reply_count": 56,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "中国女同性恋什么时候才能意识到女同性恋是两个女的在谈不是一个长得和男的一样的女的和一个女的谈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 91,
+          "like_count": 163,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "正體🇹🇼/简体🇨🇳 | 音游人 | フォローをくれてありがとうございます!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GeW91"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Io",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 2266,
+          "like_count": 31703,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1123
+        },
+        "url": "https://t.co/eL7t3GeW91",
+        "username": "Qinioo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2058534361457098793",
+    "created_at": "2026-05-24T13:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058540993071497499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "5hhqiuba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058540993071497499",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058534361457098793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5hhqiuba 感觉心理咨询的效果不如一板普瑞🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2058534361457098793",
+        "created_at": "2026-05-24T13:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058540993071497499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "5hhqiuba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058540993071497499",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058534361457098793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5hhqiuba 感觉心理咨询的效果不如一板普瑞🙄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2058534361457098793",
+        "created_at": "2026-05-24T13:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058534361457098793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058534361457098793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他们让我找心理咨询，我说找个屁，都是说烂了的老一套话术，没准咨询师懂得还没我多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 353,
+          "like_count": 493,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "enby/泛性恋/负能/阴暗/餐券/抽象/边缘生物\n分身@hck7g1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "hck7g1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "宇宙边界",
+        "name": "洛洛落叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056737127103135745/eUlgofwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 137,
+          "like_count": 1328,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "5hhqiuba",
+        "verified": false
+      }
+    ]
+  }
+}

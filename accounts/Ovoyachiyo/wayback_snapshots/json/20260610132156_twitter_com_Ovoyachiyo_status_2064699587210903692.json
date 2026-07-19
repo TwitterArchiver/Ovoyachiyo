@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2064682895948849623",
+    "created_at": "2026-06-10T13:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064699587210903692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1976904875603873792",
+          "start": 0,
+          "username": "RXrein0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064699587210903692",
+    "in_reply_to_user_id": "1976904875603873792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064682895948849623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXrein0 你不叠投资人？😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2064682895948849623",
+        "created_at": "2026-06-10T13:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064699587210903692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1976904875603873792",
+              "start": 0,
+              "username": "RXrein0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064699587210903692",
+        "in_reply_to_user_id": "1976904875603873792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064682895948849623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXrein0 你不叠投资人？😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976904875603873792",
+        "conversation_id": "2064682895948849623",
+        "created_at": "2026-06-10T12:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064682895948849623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064682895948849623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考成绩出来了，语文125数学90英语101文综200拉特兰999谢拉格999叙拉古999炎999维多利亚999萨尔贡999卡西米尔999灵巧999精准999灵巧999不屈999远见999"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 385,
+          "like_count": 592,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T06:57:24.000Z",
+        "description": "俺是Rein。25年毕业的INTP社畜。目前主坑是明日方舟/假面骑士。置顶有匿名提问箱，看到就会回！欢迎小窗找我玩，感谢关注！",
+        "id": "1976904875603873792",
+        "location": "正于群星中沉溺",
+        "name": "没有味淋多喝生抽",
+        "pinned_tweet_id": "2028344137150525895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048945846633545728/SYLBV87m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 72,
+          "like_count": 6204,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 3122
+        },
+        "username": "RXrein0",
+        "verified": false
+      }
+    ]
+  }
+}

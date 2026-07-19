@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2051552350687387903",
+    "created_at": "2026-05-05T12:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051642088413147202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "enaslove392"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051642088413147202",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051552350687387903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enaslove392 就算是感冒一周也不一定能好呀！好好休息会好的-w-"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2051552350687387903",
+        "created_at": "2026-05-05T12:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051642088413147202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "enaslove392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051642088413147202",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051552350687387903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enaslove392 就算是感冒一周也不一定能好呀！好好休息会好的-w-"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2051552350687387903",
+        "created_at": "2026-05-05T06:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051552350687387903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051552350687387903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七天了病情非但没好反而更严重了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 302,
+          "like_count": 385,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "✟贈予你微笑的小天使降臨！照耀互聯網的一束聖光！執著渴望著幸福！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/enarasa",
+                "end": 23,
+                "expanded_url": "https://ngl.link/enarasa",
+                "start": 0,
+                "url": "https://t.co/0C52FwXTnR"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "✟天國✟",
+        "name": "心生活運動♡",
+        "pinned_tweet_id": "2050922765436199315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050528289807093760/kCOZlKSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 93,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/0C52FwXTnR",
+        "username": "enaslove392",
+        "verified": false
+      }
+    ]
+  }
+}

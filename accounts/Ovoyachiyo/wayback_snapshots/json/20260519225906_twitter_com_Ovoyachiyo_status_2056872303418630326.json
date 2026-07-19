@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2056393743952224548",
+    "created_at": "2026-05-19T22:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T23:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056872303418630326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596405792315691008",
+          "start": 0,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056872303418630326",
+    "in_reply_to_user_id": "1596405792315691008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056807819802972604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0502railgun1949 好哦谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2056393743952224548",
+        "created_at": "2026-05-19T22:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T23:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056872303418630326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056872303418630326",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056807819802972604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 好哦谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2056393743952224548",
+        "created_at": "2026-05-19T18:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056807819802972604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056807819802972604",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056393743952224548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 20天有20天的打法，放松是很必要的最后那几天突击就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 334,
+          "like_count": 451,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 678,
+          "like_count": 14515,
+          "listed_count": 5,
+          "media_count": 1374,
+          "tweet_count": 11506
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

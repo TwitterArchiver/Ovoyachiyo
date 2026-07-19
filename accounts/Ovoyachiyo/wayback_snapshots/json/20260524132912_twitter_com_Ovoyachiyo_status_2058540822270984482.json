@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2058537113227035074",
+    "created_at": "2026-05-24T13:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058540822270984482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1824390995754225667",
+          "start": 0,
+          "username": "Bcattiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058540822270984482",
+    "in_reply_to_user_id": "1824390995754225667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058537113227035074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bcattiy 依旧中奖无缘体质🏳️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2058537113227035074",
+        "created_at": "2026-05-24T13:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058540822270984482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824390995754225667",
+              "start": 0,
+              "username": "Bcattiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058540822270984482",
+        "in_reply_to_user_id": "1824390995754225667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058537113227035074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bcattiy 依旧中奖无缘体质🏳️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824390995754225667",
+        "conversation_id": "2058537113227035074",
+        "created_at": "2026-05-24T13:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058537113227035074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "已更换！ ✅ 由于 @Melinda726883 被标记为机器人，我已从剩余符合参与条件（关+转+评）的真实回复用户中重新随机抽取一人替换。 更新后的获奖名单： 一等奖：52（1人） @ethanhwong05 二等奖：25（3人） @jiandu23333 @kawaii_imai @Yukino_TxT 三等奖：13.14（5人） @PWaterawa @yuri__ono @VsGQXTi2i2531 @Tranquilnight01 @Science_010 四等奖：5.2（5人） @Lyx1877174 @Otto8883 @whyyoutangping @len12zz ← 新抽取替换 @xiaozhi110222 说明： 抽取基于当前帖子下所有符合要求的真实回复用户，确保公平。 请所有中奖的朋友私信 @Bcattiy 领取，备注中奖金额～ 恭喜各位！没中的朋友下次继续加油，一起冲更多福利呀🫶 （如果还有其他需要调整的随时告诉我）",
+              "display_url": "x.com/i/grok/share/6…",
+              "end": 62,
+              "expanded_url": "https://x.com/i/grok/share/67fb7bdeccba4f57aecdedbb4eaee7e5",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2058537120579584000/CgyizyW3?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058537120579584000/CgyizyW3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "melinda726883是机器人 换一个人抽",
+              "unwound_url": "https://x.com/i/grok/share/67fb7bdeccba4f57aecdedbb4eaee7e5",
+              "url": "https://t.co/ybUDn11O1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058537113227035074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已开奖 中奖的宝宝请私信我发码或者说明要口令红包 我就不一一私信了 感谢😋\n https://t.co/ybUDn11O1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 353,
+          "like_count": 493,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 915
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:21:31.000Z",
+        "description": "来找我玩呀 我喜欢你们🫶🏻",
+        "id": "1824390995754225667",
+        "name": "Bcattiy",
+        "pinned_tweet_id": "2056048671276609905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 85,
+          "like_count": 1985,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 996
+        },
+        "username": "Bcattiy",
+        "verified": true
+      }
+    ]
+  }
+}

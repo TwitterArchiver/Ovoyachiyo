@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2068333976931197123",
+    "created_at": "2026-06-20T16:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068369355688350008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902691463252852736",
+          "start": 0,
+          "username": "xinggu233893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068369355688350008",
+    "in_reply_to_user_id": "1902691463252852736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068352125474877917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinggu233893 谢谢你哦(๓´˘`๓)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2068333976931197123",
+        "created_at": "2026-06-20T16:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068369355688350008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902691463252852736",
+              "start": 0,
+              "username": "xinggu233893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068369355688350008",
+        "in_reply_to_user_id": "1902691463252852736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068352125474877917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinggu233893 谢谢你哦(๓´˘`๓)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902691463252852736",
+        "conversation_id": "2068333976931197123",
+        "created_at": "2026-06-20T15:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068352125474877917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068352125474877917",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068333976931197123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 恭喜🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 406,
+          "like_count": 626,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T11:59:41.000Z",
+        "description": "高一牲 | MTX🏳️‍⚧️ |  泛性恋🏳️‍🌈  | 推上唯一的真穷鬼 | 165cm 42kg左右 | 无证含糖🍥（暂停） | 负能量警告‼️ | 微民科、民哲 | 坐标江西 | 随缘回fo | 长期碎碎念 | 抑郁质人格 |🚪0.0000001 |\n副人格：@s315258043",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "s315258043"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utopia72320",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utopia72320",
+                "start": 0,
+                "url": "https://t.co/1fYFYOuHT2"
+              }
+            ]
+          }
+        },
+        "id": "1902691463252852736",
+        "location": "距离你 89.64 km",
+        "name": "斯仁S-315（垃圾帖大王） 🏳️‍⚧️",
+        "pinned_tweet_id": "2062155972433592330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039714212101160960/wyTFBp0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 295,
+          "like_count": 11905,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/1fYFYOuHT2",
+        "username": "xinggu233893",
+        "verified": false
+      }
+    ]
+  }
+}

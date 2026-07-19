@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2077007263370478064",
+    "created_at": "2026-07-14T15:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077053318946558414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577362467419611137",
+          "start": 0,
+          "username": "Retepa8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077053318946558414",
+    "in_reply_to_user_id": "1577362467419611137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077007263370478064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retepa8964 我超，滨！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077007243279814656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMDFVObUAA8_Hu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2077007263370478064",
+        "created_at": "2026-07-14T15:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077053318946558414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577362467419611137",
+              "start": 0,
+              "username": "Retepa8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077053318946558414",
+        "in_reply_to_user_id": "1577362467419611137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077007263370478064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retepa8964 我超，滨！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077007243279814656"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077007263370478064",
+        "created_at": "2026-07-14T12:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077007263370478064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9CkRfXGSu",
+              "end": 35,
+              "expanded_url": "https://x.com/Retepa8964/status/2077007263370478064/photo/1",
+              "media_key": "3_2077007243279814656",
+              "start": 12,
+              "url": "https://t.co/Z9CkRfXGSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077007263370478064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2664,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实习下班后我只做一件事 https://t.co/Z9CkRfXGSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 414,
+          "like_count": 658,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1453
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069459272237453314/oe_JsCpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 907,
+          "like_count": 26762,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 2172
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa8964",
+        "verified": false
+      }
+    ]
+  }
+}

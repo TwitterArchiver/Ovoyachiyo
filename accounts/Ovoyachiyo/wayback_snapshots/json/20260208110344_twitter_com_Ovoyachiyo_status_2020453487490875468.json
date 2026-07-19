@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2020401532093825056",
+    "created_at": "2026-02-08T11:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T12:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020453487490875468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020453487490875468",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020401532093825056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 用糯米纸包着应该会好点！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020401532093825056].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2020401532093825056",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2020401532093825056"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2020401532093825056",
+        "created_at": "2026-02-08T11:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020453487490875468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020453487490875468",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020401532093825056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 用糯米纸包着应该会好点！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 83,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜more moots!｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信 选拒",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015796280795258880/pvCRCu-6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 195,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1907
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

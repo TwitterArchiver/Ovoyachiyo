@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2056008232431186356",
+    "created_at": "2026-05-17T14:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056012201379709120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "5hhqiuba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056012201379709120",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056008232431186356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5hhqiuba 先吃个普瑞吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2056008232431186356",
+        "created_at": "2026-05-17T14:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056012201379709120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "5hhqiuba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056012201379709120",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056008232431186356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5hhqiuba 先吃个普瑞吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2056008232431186356",
+        "created_at": "2026-05-17T13:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056008232431186356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056008232431186356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我们见面了，我会先递给你一板普瑞然后说：“先吃个普瑞吧。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 330,
+          "like_count": 442,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "enby/泛性恋/负能/阴暗/餐券/抽象/边缘生物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SIsWtJ"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "宇宙边界",
+        "name": "洛叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055266710693789696/ggkmV36K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 125,
+          "like_count": 887,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/Q2C2SIsWtJ",
+        "username": "5hhqiuba",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2055155128534274306",
+    "created_at": "2026-05-15T13:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055274946151215580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753386090143354880",
+          "start": 0,
+          "username": "HanQWQ457437"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055274946151215580",
+    "in_reply_to_user_id": "1753386090143354880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055155128534274306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanQWQ457437 可以找我玩-w-"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 298,
+        "media_key": "3_2055155126248361984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVgstpbUAA8ucE.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2055155128534274306",
+        "created_at": "2026-05-15T13:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055274946151215580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753386090143354880",
+              "start": 0,
+              "username": "HanQWQ457437"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055274946151215580",
+        "in_reply_to_user_id": "1753386090143354880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055155128534274306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanQWQ457437 可以找我玩-w-"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055155126248361984"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2055155128534274306",
+        "created_at": "2026-05-15T05:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055155128534274306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nHgrU8LZSo",
+              "end": 166,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2055155128534274306/photo/1",
+              "media_key": "3_2055155126248361984",
+              "start": 143,
+              "url": "https://t.co/nHgrU8LZSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055155128534274306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我只想有人爱我 我想有人愿意听我的倾诉 愿意在我哭的时候抱着我 我难过的时候说爱我 永远不离开我 永远陪着我 和我一起出去玩 去不同的地方玩，吃不同国家的食物 累的时候和我一起宅在家里打游戏 但无一例外的都嫌我烦 我不是故意烦你的 我只是害怕 害怕你去找别人 我想我真的是一个自私的人 我不想你和别人说话 不想你认识其他人 不想你和别人发信息 如果你的世界只有我一个人就好了 但我不是不想你有朋友 我只是害怕 害怕那不只是朋友 我总是担心 担心你和你朋友的关系会慢慢胜过我 每次你和你朋友玩的时候我都在害怕 我真的好自私"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 799,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我只想有人爱我 我想有人愿意听我的倾诉 愿意在我哭的时候抱着我 我难过的时候说爱我 永远不离开我 永远陪着我 和我一起出去玩 去不同的地方玩，吃不同国家的食物 累的时候和我一起宅在家里打游戏 但无一例外的都嫌我烦 我不是故意烦你的 我只是害怕 害怕你去找别人 我想我真的是一个自私的人 https://t.co/nHgrU8LZSo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 319,
+          "like_count": 423,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2054129295426191390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 984,
+          "like_count": 2567,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 718
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

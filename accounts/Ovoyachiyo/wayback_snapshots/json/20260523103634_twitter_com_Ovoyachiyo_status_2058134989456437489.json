@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2058124792298135879",
+    "created_at": "2026-05-23T10:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058134989456437489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1824390995754225667",
+          "start": 0,
+          "username": "Bcattiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058134989456437489",
+    "in_reply_to_user_id": "1824390995754225667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058124792298135879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bcattiy 没我重抽（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2058124792298135879",
+        "created_at": "2026-05-23T10:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058134989456437489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824390995754225667",
+              "start": 0,
+              "username": "Bcattiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058134989456437489",
+        "in_reply_to_user_id": "1824390995754225667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058124792298135879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bcattiy 没我重抽（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824390995754225667",
+        "conversation_id": "2058124792298135879",
+        "created_at": "2026-05-23T09:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058124792298135879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "✅ 抽奖结果已生成（基于评论区参与者） 总共收集到 27个独特有效参与用户（已去重，仅计入回复了帖子的用户，假设均满足关+转要求）。 🎉 大奖（52r）： @cishen2336 🏅 小奖（5.2r × 10人）： @nldeyq142306 @ynxxx_jjkk @zhngho528684734 @mods999_ @Poca2381 @_ropu @duo_shu62376 @yuganbb823 @p1NRed1_A @Bocchi_Kk1 说明： 抽取方式为完全随机（使用随机打乱算法）。 如果需要重新抽取或有额外验证（例如确认是否已关注/转发），告诉我我可以再跑一次。 恭喜中奖的朋友！请私信 @Bcattiy 领取～ 需要我列出完整参与名单或做其他调整吗？",
+              "display_url": "x.com/i/grok/share/d…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/d64c0d54bdc04d38a6c4406041262921",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2058124797721423872/wYoej33c?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058124797721423872/wYoej33c?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "帮我在评论区随机抽取满足要求的用户并列出名单 52r一人 5.2r十人",
+              "unwound_url": "https://x.com/i/grok/share/d64c0d54bdc04d38a6c4406041262921",
+              "url": "https://t.co/IDiNmDMoHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058124792298135879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IDiNmDMoHr\n 卡住了 提前开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 351,
+          "like_count": 478,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 896
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:21:31.000Z",
+        "description": "来找我玩呀 我喜欢你们🫶🏻",
+        "id": "1824390995754225667",
+        "name": "Bcattiy",
+        "pinned_tweet_id": "2056048671276609905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 76,
+          "like_count": 1934,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 917
+        },
+        "username": "Bcattiy",
+        "verified": true
+      }
+    ]
+  }
+}

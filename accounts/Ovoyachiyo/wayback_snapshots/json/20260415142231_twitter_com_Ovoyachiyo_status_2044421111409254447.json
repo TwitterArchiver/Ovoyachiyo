@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2044421111409254447",
+    "created_at": "2026-04-15T14:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044421111409254447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044421111409254447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044066857486037118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 你总是挑自己的毛病 嫌弃自己不够坚强 习惯性否定自己 说自己的很多不好 我却觉得不够完美的你 经常掉眼泪的你 像蛋挞一样脆弱的人 特别特别好 我喜欢你细腻的想法和闪亮的心 喜欢你擦干眼泪再次选择向前 喜欢你的一万次勇敢和懦弱 你很了不起 你很特…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2044421111409254447",
+        "created_at": "2026-04-15T14:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044421111409254447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044421111409254447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044066857486037118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 你总是挑自己的毛病 嫌弃自己不够坚强 习惯性否定自己 说自己的很多不好 我却觉得不够完美的你 经常掉眼泪的你 像蛋挞一样脆弱的人 特别特别好 我喜欢你细腻的想法和闪亮的心 喜欢你擦干眼泪再次选择向前 喜欢你的一万次勇敢和懦弱 你很了不起 你很特…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2044066857486037118",
+        "created_at": "2026-04-14T14:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044066857486037118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044066857486037118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 6898,
+          "like_count": 291,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "你总是挑自己的毛病 嫌弃自己不够坚强 习惯性否定自己 说自己的很多不好 我却觉得不够完美的你 经常掉眼泪的你 像蛋挞一样脆弱的人 特别特别好 我喜欢你细腻的想法和闪亮的心 喜欢你擦干眼泪再次选择向前 喜欢你的一万次勇敢和懦弱 你很了不起 你很特别 你真的很棒了 不要说自己不好 你是最应该幸福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 235,
+          "like_count": 325,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 535
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 174,
+          "like_count": 4992,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 1717
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

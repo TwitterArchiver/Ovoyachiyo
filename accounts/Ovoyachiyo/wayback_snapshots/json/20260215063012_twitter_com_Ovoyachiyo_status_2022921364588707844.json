@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2022760167238951338",
+    "created_at": "2026-02-15T06:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T07:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022921364588707844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1770798751524720640",
+          "start": 0,
+          "username": "ri_fumo"
+        },
+        {
+          "end": 16,
+          "id": "1779556990500630528",
+          "start": 9,
+          "username": "Anatdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022921364588707844",
+    "in_reply_to_user_id": "1770798751524720640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022901142460772460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri_fumo @Anatdx 右佐是通过唾液代谢的，包衣也没用吃完苦一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2022760167238951338",
+        "created_at": "2026-02-15T06:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022921364588707844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1770798751524720640",
+              "start": 0,
+              "username": "ri_fumo"
+            },
+            {
+              "end": 16,
+              "id": "1779556990500630528",
+              "start": 9,
+              "username": "Anatdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022921364588707844",
+        "in_reply_to_user_id": "1770798751524720640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022901142460772460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri_fumo @Anatdx 右佐是通过唾液代谢的，包衣也没用吃完苦一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770798751524720640",
+        "conversation_id": "2022760167238951338",
+        "created_at": "2026-02-15T05:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022901142460772460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1779556990500630528",
+              "start": 0,
+              "username": "Anatdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022901142460772460",
+        "in_reply_to_user_id": "1779556990500630528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022760167238951338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anatdx 怎么没见包衣右佐 ("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 84,
+          "like_count": 148,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T13:05:04.000Z",
+        "description": "ᗜ_ᗜ ᗜˬᗜ ᗜ‸ᗜ ᗜˬᗜ ᗜωᗜ ᗜˬᗜ ᗜ‸ᗜ ᗜᴗᗜ ᗜˬᗜ\n废物\nふも 🥵🤤 ふも 🥵🤤\nふも好吃 🤤 可食用ふも好 🤤",
+        "id": "1770798751524720640",
+        "location": "幻想ふも鄉，魔法森林，霧雨魔法ふも店，D9221A6B",
+        "name": "ri☆fumo ᗜˬᗜ? 🌠",
+        "pinned_tweet_id": "1838279324618887376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830094266841899008/egZFquzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 167,
+          "like_count": 12894,
+          "listed_count": 1,
+          "media_count": 484,
+          "tweet_count": 5149
+        },
+        "username": "ri_fumo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T17:07:16.000Z",
+        "description": "わがはいは具合が悪い。大声を出されるとわがはいの具合がもっと悪くなる。だから一──【出て行け】。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anatdx.com",
+                "end": 23,
+                "expanded_url": "https://anatdx.com",
+                "start": 0,
+                "url": "https://t.co/CabvTQy1Su"
+              }
+            ]
+          }
+        },
+        "id": "1779556990500630528",
+        "location": "絶海の孤島",
+        "name": "Anan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020383339073662982/-xeXvSm5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 588,
+          "like_count": 22925,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/CabvTQy1Su",
+        "username": "Anatdx",
+        "verified": false
+      }
+    ]
+  }
+}

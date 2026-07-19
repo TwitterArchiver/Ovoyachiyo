@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2028044963494416731",
+    "created_at": "2026-03-01T09:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T10:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028044963494416731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223407990713114624",
+          "start": 3,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028044963494416731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027744719892283456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wmtbxsh: 希望自己下辈子有北京户口，中美混血 中国国籍，自己一个人住上海市心中大别墅，一个月零花钱300w，父母忙着做生意，没时间管我，只会愧疚的给我转钱。还有很多蓬松的头发，精致的五官 完美的身材和脸型，还有美妙的声音和通音律，学啥都快，超强记忆力，落落大方，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2028044963494416731",
+        "created_at": "2026-03-01T09:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028044963494416731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223407990713114624",
+              "start": 3,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028044963494416731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027744719892283456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wmtbxsh: 希望自己下辈子有北京户口，中美混血 中国国籍，自己一个人住上海市心中大别墅，一个月零花钱300w，父母忙着做生意，没时间管我，只会愧疚的给我转钱。还有很多蓬松的头发，精致的五官 完美的身材和脸型，还有美妙的声音和通音律，学啥都快，超强记忆力，落落大方，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223407990713114624",
+        "conversation_id": "2027744719892283456",
+        "created_at": "2026-02-28T13:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027744719892283456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027744719892283456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 93061,
+          "like_count": 1883,
+          "quote_count": 17,
+          "reply_count": 77,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "希望自己下辈子有北京户口，中美混血 中国国籍，自己一个人住上海市心中大别墅，一个月零花钱300w，父母忙着做生意，没时间管我，只会愧疚的给我转钱。还有很多蓬松的头发，精致的五官 完美的身材和脸型，还有美妙的声音和通音律，学啥都快，超强记忆力，落落大方，行了暂时就这些吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 98,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "2027692271609786598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44307,
+          "following_count": 242,
+          "like_count": 5178,
+          "listed_count": 99,
+          "media_count": 392,
+          "tweet_count": 1623
+        },
+        "username": "wmtbxsh",
+        "verified": true
+      }
+    ]
+  }
+}

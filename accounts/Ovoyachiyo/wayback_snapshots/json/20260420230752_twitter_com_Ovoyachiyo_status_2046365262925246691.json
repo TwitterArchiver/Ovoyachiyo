@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2046272972726346048",
+    "created_at": "2026-04-20T23:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T00:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046365262925246691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843360729199718404",
+          "start": 0,
+          "username": "longlongp97w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046365262925246691",
+    "in_reply_to_user_id": "1843360729199718404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046272972726346048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longlongp97w 是这个人的问题吧，抱抱龙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046272968464973827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXSbFbWwAMIGCZ.jpg",
+        "width": 896
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046272968464969728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXSbFbWsAAQ4aq.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2046272972726346048",
+        "created_at": "2026-04-20T23:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046365262925246691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843360729199718404",
+              "start": 0,
+              "username": "longlongp97w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046365262925246691",
+        "in_reply_to_user_id": "1843360729199718404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046272972726346048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longlongp97w 是这个人的问题吧，抱抱龙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046272968464973827",
+            "3_2046272968464969728"
+          ]
+        },
+        "author_id": "1843360729199718404",
+        "conversation_id": "2046272972726346048",
+        "created_at": "2026-04-20T17:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046272972726346048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bdrm2Q1kn",
+              "end": 135,
+              "expanded_url": "https://x.com/longlongp97w/status/2046272972726346048/photo/1",
+              "media_key": "3_2046272968464973827",
+              "start": 112,
+              "url": "https://t.co/9bdrm2Q1kn"
+            },
+            {
+              "display_url": "pic.x.com/9bdrm2Q1kn",
+              "end": 135,
+              "expanded_url": "https://x.com/longlongp97w/status/2046272972726346048/photo/1",
+              "media_key": "3_2046272968464969728",
+              "start": 112,
+              "url": "https://t.co/9bdrm2Q1kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046272972726346048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的….已经要畏惧交友了，从二月底开始在网上交朋友，已经第三次遇到这种事了，我其实挺谢谢他们的，支持我，夸我，但我很清楚，现在状态时不可能支持我谈恋爱了，我也接受不了网恋。哎….明明昨天还聊得挺开心的，今天却要面临断崖式 https://t.co/9bdrm2Q1kn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 249,
+          "like_count": 344,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️一个人在ny上学，19岁，艺术生，现实无社交，双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）人在国外上推方便，拿推来岁岁念+记录日常+宣泄负面情绪，讨厌圈子不想聊黄（和陌生人聊太蠢了这个）然后我不是同！想多找互关呀， #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 157,
+                "start": 153,
+                "tag": "碎碎念"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsjYs"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041004546806468608/r_cGy1V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 91,
+          "like_count": 4478,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/oCgXhmsjYs",
+        "username": "longlongp97w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2056696422918209683",
+    "created_at": "2026-05-19T13:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056723071705518457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1457364958841225222",
+          "start": 0,
+          "username": "u7ed2x2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056723071705518457",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056696422918209683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@u7ed2x2 《百年麦记》《麦记梦》"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056696415221653504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrafigbIAAgDPF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2056696422918209683",
+        "created_at": "2026-05-19T13:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056723071705518457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056723071705518457",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056696422918209683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 《百年麦记》《麦记梦》"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056696415221653504"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056696422918209683",
+        "created_at": "2026-05-19T11:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056696422918209683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jb2PBxLI9i",
+              "end": 64,
+              "expanded_url": "https://x.com/u7ed2x2/status/2056696422918209683/photo/1",
+              "media_key": "3_2056696415221653504",
+              "start": 41,
+              "url": "https://t.co/Jb2PBxLI9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056696422918209683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天梦到成为了很厉害的推主，还顺带出版了《绒绒洛谈麦记牛奶》《麦记人生》这样的书 https://t.co/Jb2PBxLI9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 334,
+          "like_count": 450,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 1021,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 332
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

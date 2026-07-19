@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2035997949881385310",
+    "created_at": "2026-03-23T08:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035997949881385310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986070487995428864",
+          "start": 3,
+          "username": "_moremore3ka9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035997949881385310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994727321631428653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_moremore3ka9: 三角重生转世！🥲\n坐标上海｜07｜155/82\n接线下努力生活中 线下价格过52🚪查看！喜欢我请打钱让我过得更好吧…\n✅私信口令红包和微信号/赞赏码备注微信号\n私信不过门不回答问题，验证15r一个问题15r\n\n寻找前世互关前世门槛哥 关注转…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035997949881385310].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035997949881385310",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035997949881385310"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994727308671012864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66x6zEbUAAVi7e.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_1994727308650041344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66x6y_bUAAN58T.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1023,
+        "media_key": "3_1994727308675223554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66x6zFbkAI4mNc.jpg",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994727308671012864",
+            "3_1994727308650041344",
+            "3_1994727308675223554"
+          ]
+        },
+        "author_id": "1986070487995428864",
+        "conversation_id": "1994727321631428653",
+        "created_at": "2025-11-29T11:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994727321631428653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/knIHnDGUdB",
+              "end": 158,
+              "expanded_url": "https://x.com/_moremore3ka9/status/1994727321631428653/photo/1",
+              "media_key": "3_1994727308671012864",
+              "start": 135,
+              "url": "https://t.co/knIHnDGUdB"
+            },
+            {
+              "display_url": "pic.x.com/knIHnDGUdB",
+              "end": 158,
+              "expanded_url": "https://x.com/_moremore3ka9/status/1994727321631428653/photo/1",
+              "media_key": "3_1994727308650041344",
+              "start": 135,
+              "url": "https://t.co/knIHnDGUdB"
+            },
+            {
+              "display_url": "pic.x.com/knIHnDGUdB",
+              "end": 158,
+              "expanded_url": "https://x.com/_moremore3ka9/status/1994727321631428653/photo/1",
+              "media_key": "3_1994727308675223554",
+              "start": 135,
+              "url": "https://t.co/knIHnDGUdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994727321631428653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 348702,
+          "like_count": 352,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "三角重生转世！🥲\n坐标上海｜07｜155/82\n接线下努力生活中 线下价格过52🚪查看！喜欢我请打钱让我过得更好吧…\n✅私信口令红包和微信号/赞赏码备注微信号\n私信不过门不回答问题，验证15r一个问题15r\n\n寻找前世互关前世门槛哥 关注转发这条抽300*1，52*5 https://t.co/knIHnDGUdB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 176,
+          "like_count": 261,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T13:58:11.000Z",
+        "description": "这样的人生像过了一辈子那样漫长｜大号收不了私信 移步 @skk_minii｜小小号@sichuansanjiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "skk_minii"
+              },
+              {
+                "end": 56,
+                "start": 41,
+                "username": "sichuansanjiao"
+              }
+            ]
+          }
+        },
+        "id": "1986070487995428864",
+        "location": "🚪52/288/588/1388/5200",
+        "name": "三角ちゃん寝る",
+        "pinned_tweet_id": "1994727321631428653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986078092826447872/O_fq4Xot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6892,
+          "following_count": 102,
+          "like_count": 1169,
+          "listed_count": 8,
+          "media_count": 83,
+          "tweet_count": 288
+        },
+        "username": "_moremore3ka9",
+        "verified": false
+      }
+    ]
+  }
+}

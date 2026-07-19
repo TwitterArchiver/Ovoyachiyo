@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2048011588951748654",
+    "created_at": "2026-04-25T13:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048037477085270504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048037477085270504",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048036622269321606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu 再说就把所有装备改为1防御😡（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2048011588951748654",
+        "created_at": "2026-04-25T13:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048037477085270504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048037477085270504",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048036622269321606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu 再说就把所有装备改为1防御😡（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2048011588951748654",
+        "created_at": "2026-04-25T13:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048036622269321606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048036622269321606",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048035422287413599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 轮椅角色！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 260,
+          "like_count": 353,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 455,
+          "like_count": 8971,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

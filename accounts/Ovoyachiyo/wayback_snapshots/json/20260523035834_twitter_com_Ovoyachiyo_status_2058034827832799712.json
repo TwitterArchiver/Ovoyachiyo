@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2057661451872125082",
+    "created_at": "2026-05-23T03:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058034827832799712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2052994836266196992",
+          "start": 0,
+          "username": "Nanwhju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058034827832799712",
+    "in_reply_to_user_id": "2052994836266196992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057661451872125082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nanwhju 扔我嘴里"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1878,
+        "media_key": "3_2057661442309111808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5ILgjaQAADp5o.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2057661451872125082",
+        "created_at": "2026-05-23T03:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058034827832799712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2052994836266196992",
+              "start": 0,
+              "username": "Nanwhju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058034827832799712",
+        "in_reply_to_user_id": "2052994836266196992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057661451872125082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanwhju 扔我嘴里"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057661442309111808"
+          ]
+        },
+        "author_id": "2052994836266196992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057661451872125082",
+        "created_at": "2026-05-22T03:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057661451872125082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTvXaXLGRB",
+              "end": 60,
+              "expanded_url": "https://x.com/Nanwhju/status/2057661451872125082/photo/1",
+              "media_key": "3_2057661442309111808",
+              "start": 37,
+              "url": "https://t.co/LTvXaXLGRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057661451872125082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1107,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续戒，再也不od这些了，永远不吃4-ho-met了。扔掉全部的药药💊。 https://t.co/LTvXaXLGRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 350,
+          "like_count": 475,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T06:11:46.000Z",
+        "description": "楠教授三世：https://t.co/RgOC6C06xC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 29,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 6,
+                "url": "https://t.co/RgOC6C06xC"
+              }
+            ]
+          }
+        },
+        "id": "2052994836266196992",
+        "location": "专注一款产品",
+        "name": "分享4-ho-met不好体验//说yes其实是no，说no其实是yes",
+        "pinned_tweet_id": "2056686106784285111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053016318086201344/0a8jdtk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 63,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 32
+        },
+        "username": "Nanwhju",
+        "verified": false
+      }
+    ]
+  }
+}

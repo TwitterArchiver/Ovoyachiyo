@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2057768388924211600",
+    "created_at": "2026-05-22T10:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057768388924211600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ovojuhao/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ovojuhao/status/2057468184345846056",
+          "start": 17,
+          "url": "https://t.co/EYfuZvfYp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057768388924211600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057468184345846056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "堂堂复活！这是我的防走丢小号—— https://t.co/EYfuZvfYp0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057468160639725568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2YZCObcAArR1h.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2057768388924211600",
+        "created_at": "2026-05-22T10:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057768388924211600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ovojuhao/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ovojuhao/status/2057468184345846056",
+              "start": 17,
+              "url": "https://t.co/EYfuZvfYp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057768388924211600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057468184345846056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "堂堂复活！这是我的防走丢小号—— https://t.co/EYfuZvfYp0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057468160639725568"
+          ]
+        },
+        "author_id": "2057465999222583296",
+        "conversation_id": "2057468184345846056",
+        "created_at": "2026-05-21T14:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057468184345846056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUEVpMBcvx",
+              "end": 30,
+              "expanded_url": "https://x.com/Ovojuhao/status/2057468184345846056/photo/1",
+              "media_key": "3_2057468160639725568",
+              "start": 7,
+              "url": "https://t.co/LUEVpMBcvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057468184345846056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 823,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🏳️🏳️🏳️ https://t.co/LUEVpMBcvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 344,
+          "like_count": 472,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T14:20:00.000Z",
+        "description": "",
+        "id": "2057465999222583296",
+        "name": "纯朴的小熊666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057466827979276288/MkOMPNRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "Ovojuhao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2042918698584019223",
+    "created_at": "2026-04-11T13:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042965881756741847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1455784742922555395",
+          "start": 0,
+          "username": "lengcuicui119"
+        },
+        {
+          "end": 28,
+          "id": "1935420089186336768",
+          "start": 15,
+          "username": "ASplendour15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042965881756741847",
+    "in_reply_to_user_id": "1455784742922555395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042918698584019223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengcuicui119 @ASplendour15 想要手册"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042918687771103235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnnuQGakAMIuFF.jpg",
+        "width": 1253
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2042918698584019223",
+        "created_at": "2026-04-11T13:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042965881756741847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            },
+            {
+              "end": 28,
+              "id": "1935420089186336768",
+              "start": 15,
+              "username": "ASplendour15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042965881756741847",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042918698584019223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 @ASplendour15 想要手册"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042918687771103235"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2042918698584019223",
+        "created_at": "2026-04-11T10:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042918698584019223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1935420089186336768",
+              "start": 51,
+              "username": "ASplendour15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijDPZaVd1F",
+              "end": 88,
+              "expanded_url": "https://x.com/lengcuicui119/status/2042918698584019223/photo/1",
+              "media_key": "3_2042918687771103235",
+              "start": 65,
+              "url": "https://t.co/ijDPZaVd1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042918698584019223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1057,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉，小炽老师，现在看来这份手册有点糟糕。。。\n很庆幸跟你说上了话，递上了祝福，\n晚安，小炽老师...@ASplendour15 https://t.co/ijDPZaVd1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 221,
+          "like_count": 314,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 702,
+          "like_count": 1777,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 1597
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/exk0RhRMOb"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 108,
+          "like_count": 322,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/exk0RhRMOb",
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

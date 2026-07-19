@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2048773967692152936",
+    "created_at": "2026-04-27T14:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048773967692152936"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "餐券"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "互fo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885218193494736896",
+          "start": 3,
+          "username": "Xnmurrr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048773967692152936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048767936064888888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xnmurrr_: #餐券 #互fo 100fo抽个52呀谢谢宝宝们 转发参与"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2048773967692152936",
+        "created_at": "2026-04-27T14:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048773967692152936"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "餐券"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "互fo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885218193494736896",
+              "start": 3,
+              "username": "Xnmurrr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048773967692152936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048767936064888888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xnmurrr_: #餐券 #互fo 100fo抽个52呀谢谢宝宝们 转发参与"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885218193494736896",
+        "conversation_id": "2048767936064888888",
+        "created_at": "2026-04-27T14:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048767936064888888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "餐券"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "互fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048767936064888888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#餐券 #互fo 100fo抽个52呀谢谢宝宝们 转发参与"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 273,
+          "like_count": 356,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T06:47:07.000Z",
+        "description": "=南 可以叫我南南\n低浮上｜双向｜餐券｜自伤｜中文⭕️",
+        "id": "1885218193494736896",
+        "name": "🧊",
+        "pinned_tweet_id": "2048422337746518047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047309529088688128/CjD2cBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 110,
+          "like_count": 1953,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 171
+        },
+        "username": "Xnmurrr_",
+        "verified": false
+      }
+    ]
+  }
+}

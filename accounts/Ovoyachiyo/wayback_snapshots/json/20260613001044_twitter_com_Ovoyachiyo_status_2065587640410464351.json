@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2065436191886016639",
+    "created_at": "2026-06-13T00:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065587640410464351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "Nu1tZ333216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065587640410464351",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065436191886016639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nu1tZ333216 加油呀！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2065436191886016639",
+        "created_at": "2026-06-13T00:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065587640410464351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "Nu1tZ333216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065587640410464351",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065436191886016639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nu1tZ333216 加油呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2065436191886016639",
+        "created_at": "2026-06-12T14:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065436191886016639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065436191886016639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天考四级 现在正在看30分速成，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 396,
+          "like_count": 598,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？      航天/观鸟/音游 enby any pronoun 阴湿自闭地雷药蛆毒虫促智批 精神病弃疗者 混沌中立 已去键政化......                 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 137,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 114,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "AAA家是本天仓五地区总代理汐音醬",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 1754,
+          "like_count": 78349,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 4869
+        },
+        "username": "Nu1tZ333216",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2052217365421785210",
+    "created_at": "2026-05-07T13:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052382619237863693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2049330128988037120",
+          "start": 0,
+          "username": "Longrc7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052382619237863693",
+    "in_reply_to_user_id": "2049330128988037120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052217365421785210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Longrc7x 龙好厉害，龙的女朋友一定会很幸福ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052217354260725760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrwz4KaQAAxRKN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2052217365421785210",
+        "created_at": "2026-05-07T13:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052382619237863693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2049330128988037120",
+              "start": 0,
+              "username": "Longrc7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052382619237863693",
+        "in_reply_to_user_id": "2049330128988037120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052217365421785210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longrc7x 龙好厉害，龙的女朋友一定会很幸福ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052217354260725760"
+          ]
+        },
+        "author_id": "2049330128988037120",
+        "conversation_id": "2052217365421785210",
+        "created_at": "2026-05-07T02:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052217365421785210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1WTpZKDcXH",
+              "end": 45,
+              "expanded_url": "https://x.com/Longrc7x/status/2052217365421785210/photo/1",
+              "media_key": "3_2052217354260725760",
+              "start": 22,
+              "url": "https://t.co/1WTpZKDcXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052217365421785210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "龙一定要把成绩搞好，以后赚很多钱养后女友🥰 https://t.co/1WTpZKDcXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 304,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T03:30:02.000Z",
+        "description": "小号善良人格，防被封\n大号@longlongp97w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "longlongp97w"
+              }
+            ]
+          }
+        },
+        "id": "2049330128988037120",
+        "name": "龙（2.0)",
+        "pinned_tweet_id": "2051332179662422472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330433830096896/7gWHHcgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 106
+        },
+        "username": "Longrc7x",
+        "verified": false
+      }
+    ]
+  }
+}

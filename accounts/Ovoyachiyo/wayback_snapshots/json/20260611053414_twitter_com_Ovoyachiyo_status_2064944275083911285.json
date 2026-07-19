@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2064944275083911285",
+    "created_at": "2026-06-11T05:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064944275083911285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1788485889225834496",
+          "start": 3,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064944275083911285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064872067661701473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YesterdayOrange: 敢不敢发到你推，看看你收到字母是几？\nA 我想抱抱你\nB 我喜欢你\nC 我讨厌你\nD 我想亲亲你\nE 我们和好吧\nF 你很帅\nG 你很坏\nH 你很呆\nI 你很可爱\nJ 你很迷人\nK 想和你做最好的朋友\nL 想和你逛街\nM 你很烦人以后我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2064944275083911285",
+        "created_at": "2026-06-11T05:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064944275083911285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1788485889225834496",
+              "start": 3,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064944275083911285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064872067661701473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YesterdayOrange: 敢不敢发到你推，看看你收到字母是几？\nA 我想抱抱你\nB 我喜欢你\nC 我讨厌你\nD 我想亲亲你\nE 我们和好吧\nF 你很帅\nG 你很坏\nH 你很呆\nI 你很可爱\nJ 你很迷人\nK 想和你做最好的朋友\nL 想和你逛街\nM 你很烦人以后我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064872067661701473",
+        "created_at": "2026-06-11T00:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064872067661701473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064872067661701473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "敢不敢发到你推，看看你收到字母是几？\nA 我想抱抱你\nB 我喜欢你\nC 我讨厌你\nD 我想亲亲你\nE 我们和好吧\nF 你很帅\nG 你很坏\nH 你很呆\nI 你很可爱\nJ 你很迷人\nK 想和你做最好的朋友\nL 想和你逛街\nM 你很烦人以后我们别联系\nN 你很忙\nO 很无情\nP 想和你在一起\nQ 用命去爱你\nR 你是我女神\nS 你是我男神\nT 你是混蛋\nU 你很高冷\nV 你很善良\nW 你很老实\nX 你很单纯\nY 我恨你\nZ 我想艹你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 414,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "敢不敢发到你推，看看你收到字母是几？\nA 我想抱抱你\nB 我喜欢你\nC 我讨厌你\nD 我想亲亲你\nE 我们和好吧\nF 你很帅\nG 你很坏\nH 你很呆\nI 你很可爱\nJ 你很迷人\nK 想和你做最好的朋友\nL 想和你逛街\nM 你很烦人以后我们别联系\nN 你很忙\nO 很无情\nP 想和你在一起\nQ 用命去爱你\nR 你是我女神\nS 你是我男神\nT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 392,
+          "like_count": 599,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2064883817849254291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12166,
+          "following_count": 5132,
+          "like_count": 94042,
+          "listed_count": 21,
+          "media_count": 2299,
+          "tweet_count": 20400
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

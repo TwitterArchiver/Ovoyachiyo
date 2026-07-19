@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060760267655618560"
+      ],
+      "media_source_tweet_id": [
+        "2060760271829053532"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "conversation_id": "2060942782513205485",
+    "created_at": "2026-05-31T04:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060942782513205485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799795163843436544",
+          "start": 3,
+          "username": "BeetiIsDog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G4vXpG6Lit",
+          "end": 59,
+          "expanded_url": "https://x.com/BeetiIsDog/status/2060760271829053532/photo/1",
+          "media_key": "3_2060760267655618560",
+          "start": 36,
+          "url": "https://t.co/G4vXpG6Lit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060942782513205485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060760271829053532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeetiIsDog: 很讨厌高考这种把未来都押上去的考试…… https://t.co/G4vXpG6Lit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_2060760267655618560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlKi4jaIAAOqdl.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060760267655618560"
+          ],
+          "media_source_tweet_id": [
+            "2060760271829053532"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "conversation_id": "2060942782513205485",
+        "created_at": "2026-05-31T04:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060942782513205485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799795163843436544",
+              "start": 3,
+              "username": "BeetiIsDog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4vXpG6Lit",
+              "end": 59,
+              "expanded_url": "https://x.com/BeetiIsDog/status/2060760271829053532/photo/1",
+              "media_key": "3_2060760267655618560",
+              "start": 36,
+              "url": "https://t.co/G4vXpG6Lit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060942782513205485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060760271829053532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeetiIsDog: 很讨厌高考这种把未来都押上去的考试…… https://t.co/G4vXpG6Lit"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060760267655618560"
+          ]
+        },
+        "author_id": "1799795163843436544",
+        "conversation_id": "2060760271829053532",
+        "created_at": "2026-05-30T16:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060760271829053532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4vXpG6Lit",
+              "end": 43,
+              "expanded_url": "https://x.com/BeetiIsDog/status/2060760271829053532/photo/1",
+              "media_key": "3_2060760267655618560",
+              "start": 20,
+              "url": "https://t.co/G4vXpG6Lit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060760271829053532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1466,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "很讨厌高考这种把未来都押上去的考试…… https://t.co/G4vXpG6Lit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2060005190175182883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 361,
+          "like_count": 523,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷,愛全奉全 ,prema everyone. ||繪垢@DogIsBeeti|| 喜歡畫畫、天文學、神經科學、百合、繁體字、羅小黑還有藤井風 ||促智藥/Biohacker初心者 || 一些標籤: HeteroAce/afab/ESFP/ADHDer || 友人:@sysjf0 @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "DogIsBeeti"
+              },
+              {
+                "end": 143,
+                "start": 136,
+                "username": "sysjf0"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風の歌の中",
+        "name": "🧬ビーチイ小犬(⁠U.⁠_⁠.⁠U)⁠",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050967982722170880/flg-1D0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 977,
+          "like_count": 42585,
+          "listed_count": 1,
+          "media_count": 530,
+          "tweet_count": 8921
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

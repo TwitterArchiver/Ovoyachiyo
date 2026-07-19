@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018716986474471424"
+      ],
+      "media_source_tweet_id": [
+        "2018717017805848906"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "conversation_id": "2019351228841664878",
+    "created_at": "2026-02-05T10:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T11:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019351228841664878"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 41,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1541192564925030400",
+          "start": 3,
+          "username": "nutella__1231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wA9Nmhwoan",
+          "end": 71,
+          "expanded_url": "https://x.com/nutella__1231/status/2018717017805848906/photo/1",
+          "media_key": "3_2018716986474471424",
+          "start": 48,
+          "url": "https://t.co/wA9Nmhwoan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019351228841664878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2024
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018717017805848906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nutella__1231: ねえねえ、世界一好きになっちゃってもいいよ\n#超かぐや姫 https://t.co/wA9Nmhwoan"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_2018716986474471424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPsZ1DboAAwVY5.jpg",
+        "width": 1879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018716986474471424"
+          ],
+          "media_source_tweet_id": [
+            "2018717017805848906"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "conversation_id": "2019351228841664878",
+        "created_at": "2026-02-05T10:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019351228841664878"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1541192564925030400",
+              "start": 3,
+              "username": "nutella__1231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wA9Nmhwoan",
+              "end": 71,
+              "expanded_url": "https://x.com/nutella__1231/status/2018717017805848906/photo/1",
+              "media_key": "3_2018716986474471424",
+              "start": 48,
+              "url": "https://t.co/wA9Nmhwoan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019351228841664878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2024
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018717017805848906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nutella__1231: ねえねえ、世界一好きになっちゃってもいいよ\n#超かぐや姫 https://t.co/wA9Nmhwoan"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018716986474471424"
+          ]
+        },
+        "author_id": "1541192564925030400",
+        "conversation_id": "2018717017805848906",
+        "created_at": "2026-02-03T16:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018717017805848906"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wA9Nmhwoan",
+              "end": 52,
+              "expanded_url": "https://x.com/nutella__1231/status/2018717017805848906/photo/1",
+              "media_key": "3_2018716986474471424",
+              "start": 29,
+              "url": "https://t.co/wA9Nmhwoan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018717017805848906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1382,
+          "impression_count": 130852,
+          "like_count": 18197,
+          "quote_count": 23,
+          "reply_count": 0,
+          "retweet_count": 2024
+        },
+        "reply_settings": "everyone",
+        "text": "ねえねえ、世界一好きになっちゃってもいいよ\n#超かぐや姫 https://t.co/wA9Nmhwoan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T22:52:08.000Z",
+        "description": "【Contact : sosms258@naver.com】 / 인누라고 불러주세요インヌ/ Don't AI learning ❌ / 🏁🔪=OC /profile,header: 조가",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/6303648215",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/6303648215",
+                "start": 0,
+                "url": "https://t.co/bxx1lYGC4c"
+              }
+            ]
+          }
+        },
+        "id": "1541192564925030400",
+        "location": "로도스아일랜드일까요아닐까요",
+        "name": "인터누텔라 ／インターヌテラ",
+        "pinned_tweet_id": "1975861757274165538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910951797025394688/Mbq6EwwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13150,
+          "following_count": 162,
+          "like_count": 4142,
+          "listed_count": 11,
+          "media_count": 248,
+          "tweet_count": 3701
+        },
+        "url": "https://t.co/bxx1lYGC4c",
+        "username": "nutella__1231",
+        "verified": false
+      }
+    ]
+  }
+}

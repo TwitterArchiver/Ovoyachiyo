@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2057111764941365396",
+    "created_at": "2026-05-20T15:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057116241010262295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022371961503092736",
+          "start": 0,
+          "username": "asusu593407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057116241010262295",
+    "in_reply_to_user_id": "2022371961503092736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057111764941365396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asusu593407 Tell Me👏 Tell Me👏\n鏡👏よ鏡👏\n一番👏好きな👏私👏👏になるの👏👏\nTell Me👏 Tell Me👏\n鏡👏よ鏡👏👏\n一番👏好きな👏私👏になるの👏👏\n👏👏👏  👏👏👏  👏👏👏👏👏\n\\mmx/\\mmx/\\mmx/\\mmx/"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 120581,
+        "height": 1280,
+        "media_key": "7_2057111594178682880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057111594178682880/pu/img/NiOUROR_itUSwP9h.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057111594178682880/pu/vid/avc1/320x568/qAQkJZjWrlWo9JhC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057111594178682880/pu/vid/avc1/480x852/LUwLkyQl9GLic3UC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057111594178682880/pu/vid/avc1/720x1280/8jRe1VcH2hkbELoL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057111594178682880/pu/pl/6p3_ozkfKZdmaihb.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2057111764941365396",
+        "created_at": "2026-05-20T15:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057116241010262295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022371961503092736",
+              "start": 0,
+              "username": "asusu593407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057116241010262295",
+        "in_reply_to_user_id": "2022371961503092736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057111764941365396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asusu593407 Tell Me👏 Tell Me👏\n鏡👏よ鏡👏\n一番👏好きな👏私👏👏になるの👏👏\nTell Me👏 Tell Me👏\n鏡👏よ鏡👏👏\n一番👏好きな👏私👏になるの👏👏\n👏👏👏  👏👏👏  👏👏👏👏👏\n\\mmx/\\mmx/\\mmx/\\mmx/"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057111594178682880"
+          ]
+        },
+        "author_id": "2022371961503092736",
+        "conversation_id": "2057111764941365396",
+        "created_at": "2026-05-20T14:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057111764941365396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KX1NP3maMF",
+              "end": 41,
+              "expanded_url": "https://x.com/asusu593407/status/2057111764941365396/video/1",
+              "media_key": "7_2057111594178682880",
+              "start": 18,
+              "url": "https://t.co/KX1NP3maMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057111764941365396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人觉得爱喜橙的配色很像萌萌香吗 https://t.co/KX1NP3maMF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 337,
+          "like_count": 463,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T18:07:15.000Z",
+        "description": "🚪52纯绿陪聊情绪价值高ww你好宝宝♡(◜ω◝)♡总之祝你天天开心！  \n ｜双相｜重焦｜强迫型｜回避型｜完美主义｜厌食｜餐券｜od｜绘画｜Cosplay｜亚文化｜无性恋｜\n温良老鼠不键政，不吵架，不参与任何争议性话题，只会悄悄看着你。\n｜私信随时欢迎♡(◜ω◝)♡\n｜梦想是成为一个温暖的、幸福的人。",
+        "id": "2022371961503092736",
+        "location": "鼠窝",
+        "name": "Asu@老鼠碎碎念bot",
+        "pinned_tweet_id": "2036918447016423592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047035314095755264/5gFUd47P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 272,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 467
+        },
+        "username": "asusu593407",
+        "verified": false
+      }
+    ]
+  }
+}

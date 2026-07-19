@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2064598392291082262",
+    "created_at": "2026-06-13T13:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065793905472524797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001612220778921984",
+          "start": 0,
+          "username": "yuanting521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065793905472524797",
+    "in_reply_to_user_id": "2001612220778921984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065727406854586536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanting521 (〃ω〃)真好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2064598392291082262",
+        "created_at": "2026-06-13T13:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065793905472524797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001612220778921984",
+              "start": 0,
+              "username": "yuanting521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065793905472524797",
+        "in_reply_to_user_id": "2001612220778921984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065727406854586536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanting521 (〃ω〃)真好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001612220778921984",
+        "conversation_id": "2064598392291082262",
+        "created_at": "2026-06-13T09:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065727406854586536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065727406854586536",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064598392291082262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 是好人好事，你真棒！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 398,
+          "like_count": 599,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T11:15:24.000Z",
+        "description": "I need.",
+        "id": "2001612220778921984",
+        "name": "fafa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001613402410803200/uXg1MP6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "yuanting521",
+        "verified": false
+      }
+    ]
+  }
+}

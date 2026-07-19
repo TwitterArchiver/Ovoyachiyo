@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2034985948942131225",
+    "created_at": "2026-03-20T14:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034998603765489831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1484450078370635777",
+          "start": 0,
+          "username": "Kuru_skullu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034998603765489831",
+    "in_reply_to_user_id": "1484450078370635777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034985948942131225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuru_skullu 申请加入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2034985948942131225",
+        "created_at": "2026-03-20T14:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034998603765489831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1484450078370635777",
+              "start": 0,
+              "username": "Kuru_skullu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034998603765489831",
+        "in_reply_to_user_id": "1484450078370635777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034985948942131225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuru_skullu 申请加入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484450078370635777",
+        "conversation_id": "2034985948942131225",
+        "created_at": "2026-03-20T13:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034985948942131225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034985948942131225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想在QQ造个直吉左右固定的群orz...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 161,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T08:57:48.000Z",
+        "description": "百合/ぜんこわ/イケメン女子が好き！無端転載/無断使用/自作発言やAIサイトでの使用等は許可してません 一般向→@SkullU_UU 🔞FANBOX→https://t.co/Usq8NoiUcP\nVgen commission→https://t.co/v76dUsskmX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "SkullU_UU"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skullu.fanbox.cc/posts/11190305",
+                "end": 98,
+                "expanded_url": "https://skullu.fanbox.cc/posts/11190305",
+                "start": 75,
+                "url": "https://t.co/Usq8NoiUcP"
+              },
+              {
+                "display_url": "vgen.co/SkullU",
+                "end": 138,
+                "expanded_url": "https://vgen.co/SkullU",
+                "start": 115,
+                "url": "https://t.co/v76dUsskmX"
+              }
+            ]
+          }
+        },
+        "id": "1484450078370635777",
+        "name": "Kuru .⋆·ฺ.∗̥⁺˚",
+        "pinned_tweet_id": "2006587365163487236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025840050731462658/ztY6FeyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18823,
+          "following_count": 394,
+          "like_count": 12015,
+          "listed_count": 46,
+          "media_count": 126,
+          "tweet_count": 5364
+        },
+        "username": "Kuru_skullu",
+        "verified": false
+      }
+    ]
+  }
+}

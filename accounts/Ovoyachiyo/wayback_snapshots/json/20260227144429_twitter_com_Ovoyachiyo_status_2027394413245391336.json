@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2027385686165528643",
+    "created_at": "2026-02-27T14:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027394413245391336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1484450078370635777",
+          "start": 0,
+          "username": "Kuru_skullu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027394413245391336",
+    "in_reply_to_user_id": "1484450078370635777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027385686165528643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuru_skullu 猫狗是对的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2027385686165528643",
+        "created_at": "2026-02-27T14:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027394413245391336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1484450078370635777",
+              "start": 0,
+              "username": "Kuru_skullu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027394413245391336",
+        "in_reply_to_user_id": "1484450078370635777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027385686165528643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuru_skullu 猫狗是对的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484450078370635777",
+        "conversation_id": "2027385686165528643",
+        "created_at": "2026-02-27T14:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027385686165528643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027385686165528643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直井是鐵受的話我就不看了（每天都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 97,
+          "like_count": 186,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T08:57:48.000Z",
+        "description": "百合/イケメン女子が好き！無端転載/無断使用/自作発言やAIサイトでの使用等は許可してません 一般向→@SkullU_UU 🔞FANBOX→https://t.co/Usq8NoiUcP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "SkullU_UU"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skullu.fanbox.cc/posts/11190305",
+                "end": 93,
+                "expanded_url": "https://skullu.fanbox.cc/posts/11190305",
+                "start": 70,
+                "url": "https://t.co/Usq8NoiUcP"
+              }
+            ]
+          }
+        },
+        "id": "1484450078370635777",
+        "name": "Kuru .⋆·ฺ.∗̥⁺˚",
+        "pinned_tweet_id": "2006587365163487236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025840050731462658/ztY6FeyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18529,
+          "following_count": 384,
+          "like_count": 11715,
+          "listed_count": 47,
+          "media_count": 90,
+          "tweet_count": 5085
+        },
+        "username": "Kuru_skullu",
+        "verified": false
+      }
+    ]
+  }
+}

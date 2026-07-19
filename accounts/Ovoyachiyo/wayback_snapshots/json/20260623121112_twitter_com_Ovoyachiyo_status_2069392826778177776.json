@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2069358262018097200",
+    "created_at": "2026-06-23T12:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069392826778177776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069392826778177776",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069392449529938008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 宝宝🥰（蹭蹭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2069358262018097200",
+        "created_at": "2026-06-23T12:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069392826778177776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069392826778177776",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069392449529938008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 宝宝🥰（蹭蹭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2069358262018097200",
+        "created_at": "2026-06-23T12:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069392449529938008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069392449529938008",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069358262018097200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 辛苦了寶貝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 407,
+          "like_count": 631,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1353
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "09｜高二生｜南部大陸的邪惡魔女｜alt @pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "pamnc2024"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ/寧古塔",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2069061714453365167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066050332250238976/PRslPyHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 337,
+          "like_count": 38719,
+          "listed_count": 5,
+          "media_count": 747,
+          "tweet_count": 22145
+        },
+        "url": "",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2033187338017460695",
+    "created_at": "2026-03-15T14:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033191779751874665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1527511279312642048",
+          "start": 0,
+          "username": "kawaue7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033191779751874665",
+    "in_reply_to_user_id": "1527511279312642048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033187338017460695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaue7 大概就是害怕日本队又夺冠吧🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2033187338017460695",
+        "created_at": "2026-03-15T14:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033191779751874665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1527511279312642048",
+              "start": 0,
+              "username": "kawaue7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033191779751874665",
+        "in_reply_to_user_id": "1527511279312642048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033187338017460695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaue7 大概就是害怕日本队又夺冠吧🙄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527511279312642048",
+        "conversation_id": "2033187338017460695",
+        "created_at": "2026-03-15T14:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033187338017460695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033187338017460695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉凭什么日本赛区有新队伍加入还不增加coa小组赛名额"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 138,
+          "like_count": 238,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T04:47:32.000Z",
+        "description": "雑多‖FAの使用は本人様のみ‖無断転載、AI學習禁止‖何かあればDMまで",
+        "id": "1527511279312642048",
+        "location": "🎶‖🪄🕊️",
+        "name": "千紀",
+        "pinned_tweet_id": "1982450252427952151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032388944114196481/y_0193-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 274,
+          "like_count": 1737,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 616
+        },
+        "username": "kawaue7",
+        "verified": false
+      }
+    ]
+  }
+}

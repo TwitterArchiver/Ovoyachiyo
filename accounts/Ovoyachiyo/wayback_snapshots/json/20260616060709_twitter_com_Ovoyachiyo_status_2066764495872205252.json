@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2066355019474207222",
+    "created_at": "2026-06-16T06:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066764495872205252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066764495872205252",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066355019474207222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo 我去蹲一下具体的我好馋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2066355019474207222",
+        "created_at": "2026-06-16T06:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066764495872205252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066764495872205252",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066355019474207222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我去蹲一下具体的我好馋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2066355019474207222",
+        "created_at": "2026-06-15T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066355019474207222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066355019474207222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 5508,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们 港美有哪些药房可以买的 我想过段时间飞去香港那边玩顺便给港美买了\n我之前大号存了记录的结果号炸了气死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 410,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 886,
+          "like_count": 2392,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1802
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

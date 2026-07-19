@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2063183202123161899",
+    "created_at": "2026-06-06T09:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063187494766891021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2006235005698375680",
+          "start": 0,
+          "username": "xioqngx286233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063187494766891021",
+    "in_reply_to_user_id": "2006235005698375680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063183202123161899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioqngx286233 卧槽大佬带带我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2063183194162331648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHmLxKaAAAZ9Jn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2063183202123161899",
+        "created_at": "2026-06-06T09:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063187494766891021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2006235005698375680",
+              "start": 0,
+              "username": "xioqngx286233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063187494766891021",
+        "in_reply_to_user_id": "2006235005698375680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063183202123161899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioqngx286233 卧槽大佬带带我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063183194162331648"
+          ]
+        },
+        "author_id": "2006235005698375680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063183202123161899",
+        "created_at": "2026-06-06T08:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063183202123161899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXiKXhPVrV",
+              "end": 27,
+              "expanded_url": "https://x.com/xioqngx286233/status/2063183202123161899/photo/1",
+              "media_key": "3_2063183194162331648",
+              "start": 4,
+              "url": "https://t.co/rXiKXhPVrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063183202123161899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来玩吧 https://t.co/rXiKXhPVrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2060005190175182883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 375,
+          "like_count": 567,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T05:24:44.000Z",
+        "description": "07大学生 重度焦虑 双相情感障碍 重度药物依赖\n自残 sns重度依赖",
+        "id": "2006235005698375680",
+        "name": "小情绪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006235162279899136/p5ZU5CLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 197,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 181
+        },
+        "username": "xioqngx286233",
+        "verified": false
+      }
+    ]
+  }
+}

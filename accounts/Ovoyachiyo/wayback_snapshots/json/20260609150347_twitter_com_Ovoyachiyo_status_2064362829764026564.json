@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2064346028921548863",
+    "created_at": "2026-06-09T15:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064362829764026564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064362829764026564",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064346028921548863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo 🥲应试教育毁了我们所有人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 430,
+        "media_key": "3_2064346017378754560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYHw_NaYAAJmSY.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2064346028921548863",
+        "created_at": "2026-06-09T15:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064362829764026564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064362829764026564",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064346028921548863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 🥲应试教育毁了我们所有人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064346017378754560"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2064346028921548863",
+        "created_at": "2026-06-09T13:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064346028921548863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WqqMcpzRAs",
+              "end": 139,
+              "expanded_url": "https://x.com/Numiouoo/status/2064346028921548863/photo/1",
+              "media_key": "3_2064346017378754560",
+              "start": 116,
+              "url": "https://t.co/WqqMcpzRAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064346028921548863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到大家高考完了变得快乐，我也替大家开心，我只能说应试教育折磨了不少人，很多人根本不适合应试体系，不是所有人都适合被统一管理\n\n我高考完后的一段时间里，一直在疯狂读书写作看电影做饭吃饭插花出门散步享受大自然，我觉得那才是真正的生命 https://t.co/WqqMcpzRAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2060005190175182883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 379,
+          "like_count": 584,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病sex&drug&SH激推🩵想和主页有原创内容的同类fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 833,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1413
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

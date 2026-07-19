@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2037102854784303524",
+    "created_at": "2026-03-26T09:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037102854784303524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1859467793500078080",
+          "start": 3,
+          "username": "DoneEither1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037102854784303524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036849798410613098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoneEither1989: 很久没搞抽奖活动了\n那就等到300 Fo\n开一个288红包➕三个奶茶\n转发评论参与哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2037102854784303524",
+        "created_at": "2026-03-26T09:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037102854784303524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1859467793500078080",
+              "start": 3,
+              "username": "DoneEither1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037102854784303524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036849798410613098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoneEither1989: 很久没搞抽奖活动了\n那就等到300 Fo\n开一个288红包➕三个奶茶\n转发评论参与哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859467793500078080",
+        "conversation_id": "2036849798410613098",
+        "created_at": "2026-03-25T16:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036849798410613098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036849798410613098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7914,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 103,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "很久没搞抽奖活动了\n那就等到300 Fo\n开一个288红包➕三个奶茶\n转发评论参与哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 188,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T05:24:20.000Z",
+        "description": "大猫猫是一个很脆弱的人，在🇨🇦渡劫ing。会回关真人。无聊的时候会给大家抽奖，会陪伴大家，但是请不要带着恶意来揣测大猫猫，很易碎。希望你们喜欢大猫猫。可以找大猫猫聊化妆/讨论摄影/打游戏。欢迎私信我https://t.co/TH0qdpP8rf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/donee84491",
+                "end": 122,
+                "expanded_url": "https://ngl.link/donee84491",
+                "start": 99,
+                "url": "https://t.co/TH0qdpP8rf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mrtpro.shop/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://mrtpro.shop/#/register?code=1Zw6wEdq",
+                "start": 0,
+                "url": "https://t.co/iuf6g2CF6v"
+              }
+            ]
+          }
+        },
+        "id": "1859467793500078080",
+        "location": "自己的梯子",
+        "name": "光痞不帅丢了半条命大猫猫",
+        "pinned_tweet_id": "2027594989476155465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028312019623944192/Os92QgeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 22,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/iuf6g2CF6v",
+        "username": "DoneEither1989",
+        "verified": false
+      }
+    ]
+  }
+}

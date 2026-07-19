@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050545306736185344"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "conversation_id": "2050545317150646471",
+    "created_at": "2026-05-02T11:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050545317150646471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b2R6PIpeNA",
+          "end": 31,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2050545317150646471/photo/1",
+          "media_key": "3_2050545306736185344",
+          "start": 8,
+          "url": "https://t.co/b2R6PIpeNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050545317150646471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和画笔和好了 https://t.co/b2R6PIpeNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2050545306736185344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUAF5va0AAgEAY.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050545306736185344"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "conversation_id": "2050545317150646471",
+        "created_at": "2026-05-02T11:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050545317150646471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2R6PIpeNA",
+              "end": 31,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2050545317150646471/photo/1",
+              "media_key": "3_2050545306736185344",
+              "start": 8,
+              "url": "https://t.co/b2R6PIpeNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050545317150646471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和画笔和好了 https://t.co/b2R6PIpeNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 295,
+          "like_count": 374,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

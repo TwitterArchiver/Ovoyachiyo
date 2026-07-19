@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2057702308226777273",
+    "created_at": "2026-05-22T12:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057796506611335253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1457364958841225222",
+          "start": 0,
+          "username": "u7ed2x2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057796506611335253",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057702308226777273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@u7ed2x2 可爱nelo🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60383,
+        "height": 1920,
+        "media_key": "13_2057702175003009024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057702175003009024/img/rv8JOyrTIgRpTOey.jpg",
+        "public_metrics": {
+          "view_count": 383
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057702175003009024/vid/avc1/1080x1920/Dsh6-TFVS7QJIlC9.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057702175003009024/vid/avc1/320x568/9np-zbejUOeAS7Zw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057702175003009024/vid/avc1/480x852/AyrDO4bbYQ3twxtP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057702175003009024/vid/avc1/720x1280/wpacoGAUffAj-CaD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057702175003009024/pl/CWB5FzNNSTb82EUc.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2057702308226777273",
+        "created_at": "2026-05-22T12:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057796506611335253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057796506611335253",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057702308226777273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 可爱nelo🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057702175003009024"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2057702308226777273",
+        "created_at": "2026-05-22T05:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057702308226777273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RwZNU2GJO",
+              "end": 63,
+              "expanded_url": "https://x.com/u7ed2x2/status/2057702308226777273/video/1",
+              "media_key": "13_2057702175003009024",
+              "start": 40,
+              "url": "https://t.co/5RwZNU2GJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057702308226777273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1283,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前剪的低脂视频...\n面捕已经到了，我会试着在VRC里拍更有趣的内容（一眼真 https://t.co/5RwZNU2GJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 345,
+          "like_count": 473,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 1021,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 384
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2046257451885007129",
+    "created_at": "2026-04-20T22:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T23:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046362785999938028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046362785999938028",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046257451885007129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 没我重抽（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2115,
+        "media_key": "3_2046257449242615808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXETv0aYAAJdzj.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2046257451885007129",
+        "created_at": "2026-04-20T22:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T23:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046362785999938028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046362785999938028",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046257451885007129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 没我重抽（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046257449242615808"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046257451885007129",
+        "created_at": "2026-04-20T15:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046257451885007129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjxVFgm0aN",
+              "end": 145,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2046257451885007129/photo/1",
+              "media_key": "3_2046257449242615808",
+              "start": 122,
+              "url": "https://t.co/KjxVFgm0aN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046257451885007129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 888,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo第二弹抽奖名单公布\n可能是x的名字也可能是tg的名字\n(总之中奖的自己会认出来吧)\n(因为主播是个严谨的人说20号开奖就20号开，所以火急火燎抽出来了，现在是20号11:58，我再打两个字就要迟到了，所以不说了虽然我感觉我还没说完 https://t.co/KjxVFgm0aN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 249,
+          "like_count": 343,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 583
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/全部回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 1268,
+          "like_count": 3533,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2049485349223891133",
+    "created_at": "2026-04-29T23:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049626183986500027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        },
+        {
+          "end": 26,
+          "id": "2038975737055543296",
+          "start": 17,
+          "username": "WujiChem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049626183986500027",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049531154290835639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox @WujiChem 好哦谢谢你ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2049485349223891133",
+        "created_at": "2026-04-29T23:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049626183986500027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 26,
+              "id": "2038975737055543296",
+              "start": 17,
+              "username": "WujiChem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049626183986500027",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049531154290835639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @WujiChem 好哦谢谢你ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2049485349223891133",
+        "created_at": "2026-04-29T16:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049531154290835639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            },
+            {
+              "end": 21,
+              "id": "2038975737055543296",
+              "start": 12,
+              "username": "WujiChem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049531154290835639",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049485349223891133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo @WujiChem 可以问问这位，他在促智这方面比较专业喵w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 283,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 1508,
+          "like_count": 17763,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 5633
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "中國政治犯(CPPC编号：01154）｜反社會人格｜毫无同理心｜厭蠢症｜武士道｜☯️🧬無極的经理皆创始人｜ADHD",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽 AKA 葉經理（無極）",
+        "pinned_tweet_id": "2049400137827672206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606935378767872/Ux18SO6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 100,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 467
+        },
+        "username": "WujiChem",
+        "verified": false
+      }
+    ]
+  }
+}

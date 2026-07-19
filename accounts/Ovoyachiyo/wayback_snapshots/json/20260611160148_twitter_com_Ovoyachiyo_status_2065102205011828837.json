@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2065100879368437789",
+    "created_at": "2026-06-11T16:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065102205011828837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065102205011828837",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065100879368437789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa 黑白熊校长爆改和平鸽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2065100866760409088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi2TASbAAAVHsR.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2065100879368437789",
+        "created_at": "2026-06-11T16:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065102205011828837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065102205011828837",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065100879368437789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 黑白熊校长爆改和平鸽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065100866760409088"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2065100879368437789",
+        "created_at": "2026-06-11T15:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065100879368437789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pk4VQVS0xJ",
+              "end": 29,
+              "expanded_url": "https://x.com/Miiharukawa/status/2065100879368437789/photo/1",
+              "media_key": "3_2065100866760409088",
+              "start": 6,
+              "url": "https://t.co/pk4VQVS0xJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065100879368437789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界和平🙏 https://t.co/pk4VQVS0xJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 394,
+          "like_count": 594,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1234
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064850357260529664/YOWYGjIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 236,
+          "like_count": 9165,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 3494
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

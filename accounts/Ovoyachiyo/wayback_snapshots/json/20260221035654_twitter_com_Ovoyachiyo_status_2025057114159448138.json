@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2025057114159448138",
+    "created_at": "2026-02-21T03:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025057114159448138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022232330752925696",
+          "start": 3,
+          "username": "Meltss03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025057114159448138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024797552890073300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meltss03: OK，集美，我们只是网友，你把手机摔了我就死了，不要为难我，放过彼此 OK？放下手里的屠刀，佛在救你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2025057114159448138",
+        "created_at": "2026-02-21T03:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025057114159448138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022232330752925696",
+              "start": 3,
+              "username": "Meltss03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025057114159448138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024797552890073300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meltss03: OK，集美，我们只是网友，你把手机摔了我就死了，不要为难我，放过彼此 OK？放下手里的屠刀，佛在救你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2024797552890073300",
+        "created_at": "2026-02-20T10:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024797552890073300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024797552890073300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 10014,
+          "like_count": 289,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "OK，集美，我们只是网友，你把手机摔了我就死了，不要为难我，放过彼此 OK？放下手里的屠刀，佛在救你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2012765004865626462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 93,
+          "like_count": 163,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "骂我的，毁容，爆痘，挂科，破产，脱发，倒霉，变胖，变矮，替我全家挡灾，出门被车创死，体重发胖，脸上爆痘爆闭口，五官变得扭曲，脱发严重，烂脸烂皮肤，有狐臭口臭脚臭，全家破产，背负债务多而大，科科挂科，霉运缠身，各个器官衰竭，失明失聪变哑巴，成绩下滑，努力变失败，折寿一百年，大型考试全部挂科。",
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2024797552890073300",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 20,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 429
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

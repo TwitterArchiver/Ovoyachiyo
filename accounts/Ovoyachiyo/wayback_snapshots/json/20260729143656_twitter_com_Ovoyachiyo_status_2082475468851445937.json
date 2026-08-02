@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2082024637110919602",
+    "created_at": "2026-07-29T14:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082475468851445937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2070132267519995904",
+          "start": 0,
+          "username": "sn7hx9_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082475468851445937",
+    "in_reply_to_user_id": "2070132267519995904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082461059592638881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sn7hx9_01 好惨啊抱抱你吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2082024637110919602",
+        "created_at": "2026-07-29T14:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082475468851445937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2070132267519995904",
+              "start": 0,
+              "username": "sn7hx9_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082475468851445937",
+        "in_reply_to_user_id": "2070132267519995904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082461059592638881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sn7hx9_01 好惨啊抱抱你吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070132267519995904",
+        "conversation_id": "2082024637110919602",
+        "created_at": "2026-07-29T13:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082461059592638881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082461059592638881",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082024637110919602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 我喜欢过精神男人💔💔😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 468,
+          "like_count": 685,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1517
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-25T13:13:42.000Z",
+        "description": "萌萌白河豚",
+        "id": "2070132267519995904",
+        "name": "奈糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070134695879421952/MPymMP7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 114,
+          "like_count": 770,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "sn7hx9_01",
+        "verified": false
+      }
+    ]
+  }
+}

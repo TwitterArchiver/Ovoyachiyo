@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2082652930457706576",
+    "created_at": "2026-07-30T06:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082711374346793374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1527511279312642048",
+          "start": 0,
+          "username": "kawaue7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082711374346793374",
+    "in_reply_to_user_id": "1527511279312642048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082652930457706576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaue7 老公生日快乐呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082652927324536832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcRzZObQAAuxJZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1229,
+        "media_key": "3_2082652926687039488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcRzW2b0AA6-We.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2082652930457706576",
+        "created_at": "2026-07-30T06:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082711374346793374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1527511279312642048",
+              "start": 0,
+              "username": "kawaue7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082711374346793374",
+        "in_reply_to_user_id": "1527511279312642048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082652930457706576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaue7 老公生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082652927324536832",
+            "3_2082652926687039488"
+          ]
+        },
+        "author_id": "1527511279312642048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082652930457706576",
+        "created_at": "2026-07-30T02:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082652930457706576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AAG17s8GM",
+              "end": 26,
+              "expanded_url": "https://x.com/kawaue7/status/2082652930457706576/photo/1",
+              "media_key": "3_2082652927324536832",
+              "start": 3,
+              "url": "https://t.co/2AAG17s8GM"
+            },
+            {
+              "display_url": "pic.x.com/2AAG17s8GM",
+              "end": 26,
+              "expanded_url": "https://x.com/kawaue7/status/2082652930457706576/photo/1",
+              "media_key": "3_2082652926687039488",
+              "start": 3,
+              "url": "https://t.co/2AAG17s8GM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082652930457706576",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 459,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "‌🎂 https://t.co/2AAG17s8GM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 472,
+          "like_count": 691,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1523
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T04:47:32.000Z",
+        "description": "雑多‖FAの使用は本人様のみ‖無断転載、AI學習禁止‖何かあればDMまで",
+        "id": "1527511279312642048",
+        "location": "🎶‖🪄🕊️",
+        "name": "千紀",
+        "pinned_tweet_id": "2042184769035993462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079181993007620097/Hl9kIRkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 281,
+          "like_count": 1884,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "kawaue7",
+        "verified": false
+      }
+    ]
+  }
+}

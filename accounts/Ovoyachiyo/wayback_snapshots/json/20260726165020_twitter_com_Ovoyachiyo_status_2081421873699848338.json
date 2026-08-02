@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2081295420698071264",
+    "created_at": "2026-07-26T16:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081421873699848338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1527511279312642048",
+          "start": 0,
+          "username": "kawaue7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081421873699848338",
+    "in_reply_to_user_id": "1527511279312642048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081295420698071264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaue7 我靠美神降临😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2081295415102832640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOI_JyHagAA_GoN.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2081295420698071264",
+        "created_at": "2026-07-26T16:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081421873699848338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1527511279312642048",
+              "start": 0,
+              "username": "kawaue7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081421873699848338",
+        "in_reply_to_user_id": "1527511279312642048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081295420698071264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaue7 我靠美神降临😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081295415102832640"
+          ]
+        },
+        "author_id": "1527511279312642048",
+        "conversation_id": "2081295420698071264",
+        "created_at": "2026-07-26T08:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081295420698071264"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "もっちーもっちもち"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "かず猫の雑談"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZ3cjsso1Z",
+              "end": 43,
+              "expanded_url": "https://x.com/kawaue7/status/2081295420698071264/photo/1",
+              "media_key": "3_2081295415102832640",
+              "start": 20,
+              "url": "https://t.co/KZ3cjsso1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081295420698071264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2413,
+          "like_count": 302,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "#もっちーもっちもち \n#かず猫の雑談 https://t.co/KZ3cjsso1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 462,
+          "like_count": 681,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T04:47:32.000Z",
+        "description": "雑多‖FAの使用は本人様のみ‖無断転載、AI學習禁止‖何かあればDMまで",
+        "id": "1527511279312642048",
+        "location": "🎶‖🪄🕊️",
+        "name": "千紀",
+        "pinned_tweet_id": "2042184769035993462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079181993007620097/Hl9kIRkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 281,
+          "like_count": 1867,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "kawaue7",
+        "verified": false
+      }
+    ]
+  }
+}

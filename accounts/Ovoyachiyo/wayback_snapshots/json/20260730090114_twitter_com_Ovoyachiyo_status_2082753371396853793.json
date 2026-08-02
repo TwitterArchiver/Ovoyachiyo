@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2082652930457706576",
+    "created_at": "2026-07-30T09:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082753371396853793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1527511279312642048",
+          "start": 0,
+          "username": "kawaue7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082753371396853793",
+    "in_reply_to_user_id": "1527511279312642048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082724729946001593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaue7 好呀好呀下次一起玩！(๓´˘`๓)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2082652930457706576",
+        "created_at": "2026-07-30T09:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082753371396853793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1527511279312642048",
+              "start": 0,
+              "username": "kawaue7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082753371396853793",
+        "in_reply_to_user_id": "1527511279312642048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082724729946001593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaue7 好呀好呀下次一起玩！(๓´˘`๓)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527511279312642048",
+        "conversation_id": "2082652930457706576",
+        "created_at": "2026-07-30T07:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082724729946001593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082724729946001593",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082711374346793374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 谢谢老公🥺😭\n特别希望你能幸福呀好好享受大学生活吧！有机会的话线下一起玩呀💕😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 472,
+          "like_count": 691,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T04:47:32.000Z",
+        "description": "雑多‖FAの使用は本人様のみ‖無断転載、AI學習禁止‖何かあればDMまで",
+        "id": "1527511279312642048",
+        "location": "🎶‖🪄🕊️",
+        "name": "千紀",
+        "pinned_tweet_id": "2042184769035993462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079181993007620097/Hl9kIRkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 281,
+          "like_count": 1884,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "kawaue7",
+        "verified": false
+      }
+    ]
+  }
+}

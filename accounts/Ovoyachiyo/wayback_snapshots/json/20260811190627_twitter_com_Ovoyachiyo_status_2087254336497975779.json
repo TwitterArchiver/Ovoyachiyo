@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2087254336497975779",
+    "created_at": "2026-08-11T19:06:27.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087254336497975779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1941297921376518145",
+          "start": 3,
+          "username": "kiwikkwwii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087254336497975779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087157097461104706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiwikkwwii: 🍂秋天の新置顶！\n\n☆★上海贫.乳必吃榜😋 首尔准留子🇰🇷\n努力工作攒房租学费中 \n\n线//↓委托具体请看p3\n\n一日女友 反差魅魔\n双商在线 温柔体贴\n情绪稳定 略有见识\n\n线.下超高情绪价值（。•ω -)ε •  。)\n\n🤍🩵💙\n请来和我约会…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087157081174601728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcSTp3acAAgAi_.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1854,
+        "media_key": "3_2087157081178824704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcSTp4a4AAEV5N.jpg",
+        "width": 1354
+      },
+      {
+        "height": 1505,
+        "media_key": "3_2087157081178857473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcSTp4bYAEqPN0.jpg",
+        "width": 1505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2087254336497975779",
+        "created_at": "2026-08-11T19:06:27.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087254336497975779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941297921376518145",
+              "start": 3,
+              "username": "kiwikkwwii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087254336497975779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087157097461104706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiwikkwwii: 🍂秋天の新置顶！\n\n☆★上海贫.乳必吃榜😋 首尔准留子🇰🇷\n努力工作攒房租学费中 \n\n线//↓委托具体请看p3\n\n一日女友 反差魅魔\n双商在线 温柔体贴\n情绪稳定 略有见识\n\n线.下超高情绪价值（。•ω -)ε •  。)\n\n🤍🩵💙\n请来和我约会…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087157081174601728",
+            "3_2087157081178824704",
+            "3_2087157081178857473"
+          ]
+        },
+        "author_id": "1941297921376518145",
+        "conversation_id": "2087157097461104706",
+        "created_at": "2026-08-11T12:40:04.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087157097461104706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8YQD5emZi4",
+              "end": 186,
+              "expanded_url": "https://x.com/kiwikkwwii/status/2087157097461104706/photo/1",
+              "media_key": "3_2087157081174601728",
+              "start": 163,
+              "url": "https://t.co/8YQD5emZi4"
+            },
+            {
+              "display_url": "pic.x.com/8YQD5emZi4",
+              "end": 186,
+              "expanded_url": "https://x.com/kiwikkwwii/status/2087157097461104706/photo/1",
+              "media_key": "3_2087157081178824704",
+              "start": 163,
+              "url": "https://t.co/8YQD5emZi4"
+            },
+            {
+              "display_url": "pic.x.com/8YQD5emZi4",
+              "end": 186,
+              "expanded_url": "https://x.com/kiwikkwwii/status/2087157097461104706/photo/1",
+              "media_key": "3_2087157081178857473",
+              "start": 163,
+              "url": "https://t.co/8YQD5emZi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087157097461104706",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087157081174601728"
+          },
+          {
+            "media_key": "3_2087157081178824704"
+          },
+          {
+            "media_key": "3_2087157081178857473"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🍂秋天の新置顶！\n\n☆★上海贫.乳必吃榜😋 首尔准留子🇰🇷\n努力工作攒房租学费中 \n\n线//↓委托具体请看p3\n\n一日女友 反差魅魔\n双商在线 温柔体贴\n情绪稳定 略有见识\n\n线.下超高情绪价值（。•ω -)ε •  。)\n\n🤍🩵💙\n请来和我约会吧♥︎♡\n\n关➕🧱抽3个66.66🧧\n\n感谢你耐心看完\n我也将珍藏每一份心意🦋 https://t.co/8YQD5emZi4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2087254336497975779",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 488,
+          "like_count": 704,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1581
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-05T00:48:04.000Z",
+        "description": "switch/Bi 上海贫乳必吃榜😋 27fall准留子🇰🇷\n温柔体贴 可御可甜 双商在线💖反差女友 亚洲可飞🩵 \n私信只回口令 废话+防走丢@misscoco7721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "misscoco7721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/St2awberriii",
+                "end": 23,
+                "expanded_url": "https://t.me/St2awberriii",
+                "start": 0,
+                "url": "https://t.co/xQdxYNUPv3"
+              }
+            ]
+          }
+        },
+        "id": "1941297921376518145",
+        "is_identity_verified": false,
+        "location": "🚪520 验证➕咨询88",
+        "most_recent_tweet_id": "2087206638927376777",
+        "name": "奇异奇异果🐹",
+        "pinned_tweet_id": "2087157097461104706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941297921376518145/1773260254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050425359615864832/DeDG_bhQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 38,
+          "like_count": 200,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/xQdxYNUPv3",
+        "username": "kiwikkwwii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

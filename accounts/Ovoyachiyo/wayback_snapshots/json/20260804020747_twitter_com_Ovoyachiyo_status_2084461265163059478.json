@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084461258313773056",
+        "3_2084461258317946880",
+        "3_2084461258305339392"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "conversation_id": "2084293044342538250",
+    "created_at": "2026-08-04T02:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084461265163059478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132729630245265408",
+          "start": 0,
+          "username": "pr80net"
+        },
+        {
+          "end": 19,
+          "id": "38217523",
+          "start": 9,
+          "username": "ZakkysLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1VPsrgQzFl",
+          "end": 152,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2084461265163059478/photo/1",
+          "media_key": "3_2084461258313773056",
+          "start": 129,
+          "url": "https://t.co/1VPsrgQzFl"
+        },
+        {
+          "display_url": "pic.x.com/1VPsrgQzFl",
+          "end": 152,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2084461265163059478/photo/1",
+          "media_key": "3_2084461258317946880",
+          "start": 129,
+          "url": "https://t.co/1VPsrgQzFl"
+        },
+        {
+          "display_url": "pic.x.com/1VPsrgQzFl",
+          "end": 152,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2084461265163059478/photo/1",
+          "media_key": "3_2084461258305339392",
+          "start": 129,
+          "url": "https://t.co/1VPsrgQzFl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084461265163059478",
+    "in_reply_to_user_id": "1132729630245265408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084293044342538250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80net @ZakkysLab 最近在看重启咲良田，那就聊聊我最喜欢的同作者的架见崎吧！整篇基本围绕“活着的意义”展开，看完让人很有活下去的动力（？）智斗描写也很精彩，后面更是升华到对人工智能的思考，总之我认为是非常棒的作品！以下是我喜欢的片段ww https://t.co/1VPsrgQzFl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084461258313773056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1-eHHbMAAPDbz.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084461258317946880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1-eHIa4AAMLnd.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084461258305339392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1-eHFagAArx7f.jpg",
+        "width": 945
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2084292628250869761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzlGjLbwAEd8k_.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084461258313773056",
+            "3_2084461258317946880",
+            "3_2084461258305339392"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "conversation_id": "2084293044342538250",
+        "created_at": "2026-08-04T02:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084461265163059478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 19,
+              "id": "38217523",
+              "start": 9,
+              "username": "ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1VPsrgQzFl",
+              "end": 152,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2084461265163059478/photo/1",
+              "media_key": "3_2084461258313773056",
+              "start": 129,
+              "url": "https://t.co/1VPsrgQzFl"
+            },
+            {
+              "display_url": "pic.x.com/1VPsrgQzFl",
+              "end": 152,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2084461265163059478/photo/1",
+              "media_key": "3_2084461258317946880",
+              "start": 129,
+              "url": "https://t.co/1VPsrgQzFl"
+            },
+            {
+              "display_url": "pic.x.com/1VPsrgQzFl",
+              "end": 152,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2084461265163059478/photo/1",
+              "media_key": "3_2084461258305339392",
+              "start": 129,
+              "url": "https://t.co/1VPsrgQzFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084461265163059478",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084293044342538250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @ZakkysLab 最近在看重启咲良田，那就聊聊我最喜欢的同作者的架见崎吧！整篇基本围绕“活着的意义”展开，看完让人很有活下去的动力（？）智斗描写也很精彩，后面更是升华到对人工智能的思考，总之我认为是非常棒的作品！以下是我喜欢的片段ww https://t.co/1VPsrgQzFl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084292628250869761"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2084293044342538250",
+        "created_at": "2026-08-03T14:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084293044342538250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "38217523",
+              "start": 84,
+              "username": "ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPzLmKgb7E",
+              "end": 130,
+              "expanded_url": "https://x.com/pr80net/status/2084293044342538250/photo/1",
+              "media_key": "3_2084292628250869761",
+              "start": 107,
+              "url": "https://t.co/NPzLmKgb7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084293044342538250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1382,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "明日空投篇\n和我互关的在此贴写一些你最近的情绪、精神，日记，或者简单的一句想他，写写你最近面临什么挑战，分享分享你的歌单，都在这条tweet的转帖引用和评论区下面，扎克@ZakkysLab 会挑人中奖喔，要真挚喔 https://t.co/NPzLmKgb7E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "location": "架见崎站南检票口前",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 478,
+          "like_count": 693,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084293044342538250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 488,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "name": "Zakky's LAB 养号中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 58,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true
+      }
+    ]
+  }
+}

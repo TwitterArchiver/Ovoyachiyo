@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2090343062639939635",
+    "created_at": "2026-08-20T09:05:15.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090364530845167825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045565022802448384",
+          "start": 0,
+          "username": "Nyanmiao0928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090364530845167825",
+    "in_reply_to_user_id": "2045565022802448384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090343062639939635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyanmiao0928 💃🏻💃🏻💃🏻🚬🚬🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2090343062639939635",
+        "created_at": "2026-08-20T09:05:15.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090364530845167825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045565022802448384",
+              "start": 0,
+              "username": "Nyanmiao0928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090364530845167825",
+        "in_reply_to_user_id": "2045565022802448384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090343062639939635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyanmiao0928 💃🏻💃🏻💃🏻🚬🚬🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045565022802448384",
+        "conversation_id": "2090343062639939635",
+        "created_at": "2026-08-20T07:39:57.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090343062639939635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090343062639939635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥请一个跳舞大爷来做解说🙄影响到我的观感了知道吗🙄"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2090364530845167825",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 506,
+          "like_count": 729,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1655
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T18:10:44.000Z",
+        "description": "😼\n翻訳機を使用できます！\n基本的にお互いにフォローし合っています！\nijl主队🌊ivl、mrc-Bailu\nidv杂技演员\n碎碎念&部分约稿日常\n全都是随便发 欢迎交友www",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@nyan-o5x?si=m…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@nyan-o5x?si=mja4PyC6wRMeIiiq",
+                "start": 0,
+                "url": "https://t.co/3jU8NApU1v"
+              }
+            ]
+          }
+        },
+        "id": "2045565022802448384",
+        "is_identity_verified": false,
+        "location": "Nyan",
+        "most_recent_tweet_id": "2090343414294528100",
+        "name": "喵",
+        "pinned_tweet_id": "2083545257883652302",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045565022802448384/1784820058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061468415521595392/Ot35-pYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 134,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/3jU8NApU1v",
+        "username": "Nyanmiao0928",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

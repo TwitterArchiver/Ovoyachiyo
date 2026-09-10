@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2091260599053476208",
+    "created_at": "2026-08-22T20:25:55.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T21:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091260599053476208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089340554605998080",
+          "start": 3,
+          "username": "Kagami060507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091260599053476208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091206242505232475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kagami060507: 其实有些男的可以想一想为什么私信人家女生不理你 一没礼貌二没素养三没情商的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2091260599053476208",
+        "created_at": "2026-08-22T20:25:55.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091260599053476208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089340554605998080",
+              "start": 3,
+              "username": "Kagami060507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091260599053476208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091206242505232475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kagami060507: 其实有些男的可以想一想为什么私信人家女生不理你 一没礼貌二没素养三没情商的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089340554605998080",
+        "conversation_id": "2091206242505232475",
+        "created_at": "2026-08-22T16:49:55.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091206242505232475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091206242505232475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 952,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实有些男的可以想一想为什么私信人家女生不理你 一没礼貌二没素养三没情商的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2091260599053476208",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 518,
+          "like_count": 737,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1677
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T13:17:35.000Z",
+        "description": "转生小号 发点碎碎念当朋友圈玩没有 偶尔爆点金币欢迎宝宝们互 fo 没有🚪没有福利看\nvx:...展开",
+        "id": "2089340554605998080",
+        "is_identity_verified": false,
+        "location": "墳墓",
+        "most_recent_tweet_id": "2091252171014901914",
+        "name": "Kagami",
+        "pinned_tweet_id": "2090806620884480418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089340554605998080/1787087456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090345739495067648/HWZzn5xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 80,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "Kagami060507",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

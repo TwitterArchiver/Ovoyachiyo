@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094719842318471168"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094671713229492453",
+    "created_at": "2026-09-01T09:31:45.000Z",
+    "display_text_range": [
+      14,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T10:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094719851654955048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030123031490875396",
+          "start": 0,
+          "username": "Haruukawaiiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ipbdIDPqgy",
+          "end": 38,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2094719851654955048/photo/1",
+          "media_key": "3_2094719842318471168",
+          "start": 15,
+          "url": "https://t.co/ipbdIDPqgy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094719851654955048",
+    "in_reply_to_user_id": "2030123031490875396",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2094719842318471168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094671713229492453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Haruukawaiiii https://t.co/ipbdIDPqgy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2094719842318471168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHwmSla0AAOOOG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094719842318471168"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094671713229492453",
+        "created_at": "2026-09-01T09:31:45.000Z",
+        "display_text_range": [
+          14,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094719851654955048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030123031490875396",
+              "start": 0,
+              "username": "Haruukawaiiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ipbdIDPqgy",
+              "end": 38,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2094719851654955048/photo/1",
+              "media_key": "3_2094719842318471168",
+              "start": 15,
+              "url": "https://t.co/ipbdIDPqgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094719851654955048",
+        "in_reply_to_user_id": "2030123031490875396",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094719842318471168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094671713229492453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Haruukawaiiii https://t.co/ipbdIDPqgy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030123031490875396",
+        "conversation_id": "2094671713229492453",
+        "created_at": "2026-09-01T06:20:28.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094671713229492453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094671713229492453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "从小时候上网看见女人裸体广告的那一刻我就爱上女人了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2094719851654955048",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 544,
+          "like_count": 789,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-07T03:27:15.000Z",
+        "description": "心的距离是遥不可及\n掉关注不是双取是我大号坠机了😔@Miiharukawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Miiharukawa"
+              }
+            ]
+          }
+        },
+        "id": "2030123031490875396",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094703796534522091",
+        "name": "遥",
+        "pinned_tweet_id": "2045065282570592611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030123031490875396/1786662655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089413446882529280/IKbHnV6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 112,
+          "like_count": 1406,
+          "listed_count": 5,
+          "media_count": 36,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "Haruukawaiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2092234195141587008",
+    "created_at": "2026-08-25T15:59:24.000Z",
+    "display_text_range": [
+      9,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T16:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092280694492082322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092280694492082322",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092279427157668279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir 只用缠两三天就可以买吗😨🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2092234195141587008",
+        "created_at": "2026-08-25T15:59:24.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092280694492082322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092280694492082322",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092279427157668279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir 只用缠两三天就可以买吗😨🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868203874726887424",
+        "conversation_id": "2092234195141587008",
+        "created_at": "2026-08-25T15:54:22.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092279427157668279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092279427157668279",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092277634663325883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 那倒没有 我缠了我妈两三天才给我买"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2092280694492082322",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 531,
+          "like_count": 748,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "lesbian 丨顺女丨OD丨互fo同类 没fo私信丨LGBTQ全友好\n如果有事不要评论，有时候评论我刷新不出来 请直接私信",
+        "id": "1868203874726887424",
+        "is_identity_verified": false,
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "most_recent_tweet_id": "2092279427157668279",
+        "name": "Hola",
+        "pinned_tweet_id": "2025485601240441319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868203874726887424/1775632701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 493,
+          "like_count": 1457,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1151
+        },
+        "url": "",
+        "username": "daozhir",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

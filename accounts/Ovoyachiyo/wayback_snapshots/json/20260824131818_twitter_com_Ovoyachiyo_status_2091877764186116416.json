@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2091535943845179507",
+    "created_at": "2026-08-24T13:18:18.000Z",
+    "display_text_range": [
+      11,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091877764186116416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1700118837604327424",
+          "start": 0,
+          "username": "LeyoUu__u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091877764186116416",
+    "in_reply_to_user_id": "1700118837604327424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091535943845179507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeyoUu__u 没办法椒杂急了自家主屠也一起骂，申请查询椒杂平均年龄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2091535943845179507",
+        "created_at": "2026-08-24T13:18:18.000Z",
+        "display_text_range": [
+          11,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091877764186116416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1700118837604327424",
+              "start": 0,
+              "username": "LeyoUu__u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091877764186116416",
+        "in_reply_to_user_id": "1700118837604327424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091535943845179507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeyoUu__u 没办法椒杂急了自家主屠也一起骂，申请查询椒杂平均年龄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700118837604327424",
+        "conversation_id": "2091535943845179507",
+        "created_at": "2026-08-23T14:40:02.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091535943845179507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTXJy5gnq9",
+              "end": 151,
+              "expanded_url": "https://x.com/LeyoUu__u/status/2091535943845179507/photo/1",
+              "media_key": "3_2091534945332469760",
+              "start": 128,
+              "url": "https://t.co/TTXJy5gnq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091535943845179507",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091534945332469760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2365,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "椒杂骂ssa也很没有道理啊\n他本来就是一个后手屠，bo5的大赛经验也不足，训练资源更是没有给到他，休赛期练了半个月，顶着巨大压力打了两个bo5\n我觉得仅凭他一个人做到这样还算中规中矩吧\n反而gr管理层舍不得请好的外援躲在后面看椒杂死命骂ssa很得意是吗？ https://t.co/TTXJy5gnq9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2091877764186116416",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 522,
+          "like_count": 739,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-08T12:08:21.000Z",
+        "description": "全ハンター応援中🎐",
+        "id": "1700118837604327424",
+        "is_identity_verified": false,
+        "location": "👾🪽",
+        "most_recent_tweet_id": "2091876629874368993",
+        "name": "Kasutapannn",
+        "pinned_tweet_id": "2080359731802361941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700118837604327424/1783420911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083146335247806464/jlP1aamX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 158,
+          "like_count": 15734,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 3346
+        },
+        "url": "",
+        "username": "LeyoUu__u",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

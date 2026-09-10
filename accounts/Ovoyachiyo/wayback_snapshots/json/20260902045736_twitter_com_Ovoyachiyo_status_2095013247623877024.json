@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2095008090903249109",
+    "created_at": "2026-09-02T04:57:36.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095013247623877024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2094632853795692544",
+          "start": 0,
+          "username": "d9nmTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095013247623877024",
+    "in_reply_to_user_id": "2094632853795692544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095008090903249109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d9nmTT 抱抱你呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72839,
+        "height": 1280,
+        "media_key": "13_2095007869284519936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095007869284519936/img/E4cGMm1Ayb-Rn0-G.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095007869284519936/vid/avc1/320x568/X8UVaZNdoSY1SPb9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095007869284519936/vid/avc1/480x852/eD31H3lJdIVoL3lK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095007869284519936/vid/avc1/720x1280/Hb6lbVwmVXO0-Ydr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095007869284519936/pl/zOhxGcKRXeusU21K.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2095008090903249109",
+        "created_at": "2026-09-02T04:57:36.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095013247623877024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2094632853795692544",
+              "start": 0,
+              "username": "d9nmTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095013247623877024",
+        "in_reply_to_user_id": "2094632853795692544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095008090903249109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d9nmTT 抱抱你呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095007869284519936"
+          ]
+        },
+        "author_id": "2094632853795692544",
+        "conversation_id": "2095008090903249109",
+        "created_at": "2026-09-02T04:37:06.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095008090903249109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzjKAEVNPO",
+              "end": 39,
+              "expanded_url": "https://x.com/d9nmTT/status/2095008090903249109/video/1",
+              "media_key": "13_2095007869284519936",
+              "start": 16,
+              "url": "https://t.co/EzjKAEVNPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095008090903249109",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095007869284519936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做错什么了 为什么要这样对我 https://t.co/EzjKAEVNPO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2095013247623877024",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 547,
+          "like_count": 804,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1769
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T03:47:55.000Z",
+        "description": "药物会带我们 逃离这扭曲的世界/pcp研究中/wlw/长发p 喜欢社交od妹 欢迎互fo 聊天 \n非正常男的不要私信我这是我雷区 前世@Ooopoowooi \n没有回答就是在打包或者在在睡觉哦tg@d9nmTT \n東九是个很温柔的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "Ooopoowooi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d9nmtt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d9nmtt",
+                "start": 0,
+                "url": "https://t.co/lg4BUz5rCS"
+              }
+            ]
+          }
+        },
+        "id": "2094632853795692544",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2095011492009799899",
+        "name": "東九2.0(巡回客户 推u中）",
+        "pinned_tweet_id": "2094721655671284075",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094633735442587649/DQeQTHr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 47,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/lg4BUz5rCS",
+        "username": "d9nmTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

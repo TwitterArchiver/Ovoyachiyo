@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2088954441886265372",
+    "created_at": "2026-08-16T11:43:54.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T12:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088954901368037627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088954901368037627",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088954579954413753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 🤝🏻🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2088954441886265372",
+        "created_at": "2026-08-16T11:43:54.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088954901368037627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088954901368037627",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088954579954413753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 🤝🏻🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2088954441886265372",
+        "created_at": "2026-08-16T11:42:37.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088954579954413753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088954579954413753",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088954441886265372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoyachiyo 活了这么久才发现自己是自己最讨厌的回避型。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2088954901368037627",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 494,
+          "like_count": 717,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "木/08/宁古塔的见习魔女🪄",
+        "id": "1765825463103139840",
+        "is_identity_verified": false,
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ/寧古塔",
+        "most_recent_tweet_id": "2088954910121619569",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2086618282854158574",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1765825463103139840/1784982287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080993589988147200/twbmvpmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 364,
+          "like_count": 45113,
+          "listed_count": 7,
+          "media_count": 797,
+          "tweet_count": 25513
+        },
+        "url": "",
+        "username": "Chloris923",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

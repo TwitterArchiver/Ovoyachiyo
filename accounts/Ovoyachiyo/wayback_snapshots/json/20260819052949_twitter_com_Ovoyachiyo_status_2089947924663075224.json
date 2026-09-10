@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2088512675492028427",
+    "created_at": "2026-08-19T05:29:49.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089947924663075224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1183048952708395009",
+          "start": 0,
+          "username": "KGY_HN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089947924663075224",
+    "in_reply_to_user_id": "1183048952708395009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088512675492028427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KGY_HN 我可以嘛＞＜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2088512675492028427",
+        "created_at": "2026-08-19T05:29:49.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089947924663075224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1183048952708395009",
+              "start": 0,
+              "username": "KGY_HN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089947924663075224",
+        "in_reply_to_user_id": "1183048952708395009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088512675492028427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KGY_HN 我可以嘛＞＜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183048952708395009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2088512675492028427",
+        "created_at": "2026-08-15T06:26:39.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088512675492028427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/_forab/status/2088083958231974189",
+              "start": 9,
+              "url": "https://t.co/ngFroFhPs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088512675492028427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088083958231974189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请大家和我互关！ https://t.co/ngFroFhPs0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2089947924663075224",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 505,
+          "like_count": 718,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-12T15:57:33.000Z",
+        "description": "KGYHN Generates Yet Higher Nonsense/\n輝夜はな🌸 / 叫我花花就好👌 / 已婚女同性恋🏳️‍🌈 / 艦これ⚓️ / 碎碎念💬 / 拙劣画师🎨 / 待就业人员💼 / 世界和平☮️ / 钱钱飞走了💸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kgy_hn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kgy_hn",
+                "start": 0,
+                "url": "https://t.co/fYn6aLyCHM"
+              }
+            ]
+          }
+        },
+        "id": "1183048952708395009",
+        "is_identity_verified": false,
+        "location": "Thailand",
+        "most_recent_tweet_id": "2089935065463886242",
+        "name": "🌸",
+        "pinned_tweet_id": "2089682171028263300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183048952708395009/1786346603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086714967827570688/SRAh-9Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14570,
+          "following_count": 3217,
+          "like_count": 2269,
+          "listed_count": 34,
+          "media_count": 1040,
+          "tweet_count": 12080
+        },
+        "url": "https://t.co/fYn6aLyCHM",
+        "username": "KGY_HN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

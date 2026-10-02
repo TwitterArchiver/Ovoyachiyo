@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100380661920206848"
+      ],
+      "media_source_tweet_id": [
+        "2100380672728981611"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "conversation_id": "2100417224247038378",
+    "created_at": "2026-09-17T02:51:04.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T03:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100417224247038378"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "ねぎどらーと"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1527511279312642048",
+          "start": 3,
+          "username": "kawaue7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dUOAege301",
+          "end": 44,
+          "expanded_url": "https://x.com/kawaue7/status/2100380672728981611/photo/1",
+          "media_key": "3_2100380661920206848",
+          "start": 21,
+          "url": "https://t.co/dUOAege301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100417224247038378",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2100380661920206848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100380672728981611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawaue7: #ねぎどらーと https://t.co/dUOAege301"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2100380661920206848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYNFW7akAAInH7.jpg",
+        "width": 1868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100380661920206848"
+          ],
+          "media_source_tweet_id": [
+            "2100380672728981611"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "conversation_id": "2100417224247038378",
+        "created_at": "2026-09-17T02:51:04.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100417224247038378"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "ねぎどらーと"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1527511279312642048",
+              "start": 3,
+              "username": "kawaue7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUOAege301",
+              "end": 44,
+              "expanded_url": "https://x.com/kawaue7/status/2100380672728981611/photo/1",
+              "media_key": "3_2100380661920206848",
+              "start": 21,
+              "url": "https://t.co/dUOAege301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100417224247038378",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100380661920206848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100380672728981611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawaue7: #ねぎどらーと https://t.co/dUOAege301"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100380661920206848"
+          ]
+        },
+        "author_id": "1527511279312642048",
+        "conversation_id": "2100380672728981611",
+        "created_at": "2026-09-17T00:25:50.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100380672728981611"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ねぎどらーと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUOAege301",
+              "end": 31,
+              "expanded_url": "https://x.com/kawaue7/status/2100380672728981611/photo/1",
+              "media_key": "3_2100380661920206848",
+              "start": 8,
+              "url": "https://t.co/dUOAege301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100380672728981611",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100380661920206848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#ねぎどらーと https://t.co/dUOAege301"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2100417224247038378",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 553,
+          "like_count": 864,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1838
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-20T04:47:32.000Z",
+        "description": "雑多‖FAの使用は本人様のみ‖無断転載、AI學習禁止‖何かあればDMまで",
+        "id": "1527511279312642048",
+        "is_identity_verified": false,
+        "location": "🐿️💤",
+        "most_recent_tweet_id": "2100380672728981611",
+        "name": "ちのり",
+        "pinned_tweet_id": "2042184769035993462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527511279312642048/1785137253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079181993007620097/Hl9kIRkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 285,
+          "like_count": 1983,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "kawaue7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

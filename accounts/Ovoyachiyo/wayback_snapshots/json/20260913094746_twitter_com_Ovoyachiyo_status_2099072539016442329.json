@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2099055801080160602",
+    "created_at": "2026-09-13T09:47:46.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099072539016442329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045331704248688640",
+          "start": 0,
+          "username": "_blue_z1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099072539016442329",
+    "in_reply_to_user_id": "2045331704248688640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099055801080160602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_blue_z1 小众冷门赛事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2099055801080160602",
+        "created_at": "2026-09-13T09:47:46.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099072539016442329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045331704248688640",
+              "start": 0,
+              "username": "_blue_z1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099072539016442329",
+        "in_reply_to_user_id": "2045331704248688640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099055801080160602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_blue_z1 小众冷门赛事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045331704248688640",
+        "conversation_id": "2099055801080160602",
+        "created_at": "2026-09-13T08:41:16.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099055801080160602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099055801080160602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉全中国喜欢IJL的都在我的列表里面了…怎么各个平台看来看去还是那些人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2099072539016442329",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 552,
+          "like_count": 859,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T02:41:02.000Z",
+        "description": "@DorisuhaDandy ｜🇨🇳 ｜20｜sub @_xuny1\n人で日本語を勉強中です。ホームページに投稿しているものはすべて依頼したイラストです。使用したい場合は、どうぞ私にDM（ダイレクトメッセージ）でご連絡ください。よろしくお願いします。🥹🫶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "DorisuhaDandy"
+              },
+              {
+                "end": 34,
+                "start": 27,
+                "username": "_xuny1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/_xuny1",
+                "end": 23,
+                "expanded_url": "https://lit.link/_xuny1",
+                "start": 0,
+                "url": "https://t.co/1QZy1uQrcC"
+              }
+            ]
+          }
+        },
+        "id": "2045331704248688640",
+        "is_identity_verified": false,
+        "location": "zeta win ⚡️",
+        "most_recent_tweet_id": "2099055801080160602",
+        "name": "亲爱吻",
+        "pinned_tweet_id": "2059119024827695382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045331704248688640/1776581991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057677391733104641/qp7RAFYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 187,
+          "like_count": 1986,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/1QZy1uQrcC",
+        "username": "_blue_z1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

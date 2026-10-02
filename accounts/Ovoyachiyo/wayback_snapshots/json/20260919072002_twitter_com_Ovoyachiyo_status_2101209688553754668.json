@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2101209688553754668",
+    "created_at": "2026-09-19T07:20:02.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101209688553754668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2079732458010935296",
+          "start": 3,
+          "username": "linglingTvT00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101209688553754668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100250583802290420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linglingTvT00: 有没有宝宝帮我转发我帖子呀我抽人送福利惹。抽转帖的宝宝\n一人13.14 \n两人5.20 \n三人0.52\n (等我有钱了我再发多点刚买完原粉没钱惹。来找我买愈美片普瑞原粉吧～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2101209688553754668",
+        "created_at": "2026-09-19T07:20:02.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101209688553754668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2079732458010935296",
+              "start": 3,
+              "username": "linglingTvT00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101209688553754668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100250583802290420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linglingTvT00: 有没有宝宝帮我转发我帖子呀我抽人送福利惹。抽转帖的宝宝\n一人13.14 \n两人5.20 \n三人0.52\n (等我有钱了我再发多点刚买完原粉没钱惹。来找我买愈美片普瑞原粉吧～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079732458010935296",
+        "conversation_id": "2100250583802290420",
+        "created_at": "2026-09-16T15:48:54.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100250583802290420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100250583802290420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "有没有宝宝帮我转发我帖子呀我抽人送福利惹。抽转帖的宝宝\n一人13.14 \n两人5.20 \n三人0.52\n (等我有钱了我再发多点刚买完原粉没钱惹。来找我买愈美片普瑞原粉吧～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2101209688553754668",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 557,
+          "like_count": 868,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T00:58:48.000Z",
+        "description": "联系不上+🐧：2928861374",
+        "id": "2079732458010935296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100253157133635869",
+        "name": "ling",
+        "pinned_tweet_id": "2100249283056349452",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079733085961076736/ku5rAA1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 6,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "linglingTvT00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

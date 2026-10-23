@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2109896275315593496",
+    "created_at": "2026-10-13T06:37:26.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T07:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109896275315593496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938921175918485504",
+          "start": 3,
+          "username": "DUBIANCHEOVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109896275315593496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109311634800066936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DUBIANCHEOVO: 大人怎么可以轻飘飘地说出“世界就是这么运行的，你就该接受”这类话\n\n世界明明不该是这么运行的，你接受这件事花了多少眼泪，怎么可以这样理所当然的按下另外一个人的头颅叫他认命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2109896275315593496",
+        "created_at": "2026-10-13T06:37:26.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T07:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109896275315593496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938921175918485504",
+              "start": 3,
+              "username": "DUBIANCHEOVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109896275315593496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109311634800066936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DUBIANCHEOVO: 大人怎么可以轻飘飘地说出“世界就是这么运行的，你就该接受”这类话\n\n世界明明不该是这么运行的，你接受这件事花了多少眼泪，怎么可以这样理所当然的按下另外一个人的头颅叫他认命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938921175918485504",
+        "conversation_id": "2109311634800066936",
+        "created_at": "2026-10-11T15:54:17.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T16:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109311634800066936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109311634800066936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 42793,
+          "like_count": 2663,
+          "quote_count": 19,
+          "reply_count": 80,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "大人怎么可以轻飘飘地说出“世界就是这么运行的，你就该接受”这类话\n\n世界明明不该是这么运行的，你接受这件事花了多少眼泪，怎么可以这样理所当然的按下另外一个人的头颅叫他认命"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2109896275315593496",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 559,
+          "like_count": 873,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1876
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T11:23:38.000Z",
+        "description": "05艺术生 crypto  现象分析 深度思考 润学",
+        "id": "1938921175918485504",
+        "is_identity_verified": false,
+        "location": "Norway",
+        "most_recent_tweet_id": "2109896144407130483",
+        "name": "我需要一张绿卡",
+        "pinned_tweet_id": "2106466739223777338",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938921175918485504/1776778645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938921272978624512/kd5q0-B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6301,
+          "following_count": 655,
+          "like_count": 2335,
+          "listed_count": 8,
+          "media_count": 230,
+          "tweet_count": 3097
+        },
+        "url": "",
+        "username": "DUBIANCHEOVO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

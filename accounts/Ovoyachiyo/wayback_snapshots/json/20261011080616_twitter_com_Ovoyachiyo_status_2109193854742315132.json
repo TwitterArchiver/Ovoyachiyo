@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2109193854742315132",
+    "created_at": "2026-10-11T08:06:16.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T09:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109193854742315132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938921175918485504",
+          "start": 3,
+          "username": "DUBIANCHEOVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109193854742315132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 662
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108780756747399480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DUBIANCHEOVO: 假性亲密最好的例子就是你跟你爸妈一起生活了十几年但是他们不知道你最喜欢的颜色、最喜欢吃什么喝什么、爱好、最想去的地方、最好的朋友是谁、最喜欢的电影、穿多大码的鞋、对什么过敏…他们只知道你有多懒性格多不好多么没出息多么不听话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2109193854742315132",
+        "created_at": "2026-10-11T08:06:16.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T09:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109193854742315132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938921175918485504",
+              "start": 3,
+              "username": "DUBIANCHEOVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109193854742315132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 662
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108780756747399480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DUBIANCHEOVO: 假性亲密最好的例子就是你跟你爸妈一起生活了十几年但是他们不知道你最喜欢的颜色、最喜欢吃什么喝什么、爱好、最想去的地方、最好的朋友是谁、最喜欢的电影、穿多大码的鞋、对什么过敏…他们只知道你有多懒性格多不好多么没出息多么不听话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938921175918485504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2108780756747399480",
+        "created_at": "2026-10-10T04:44:46.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108780756747399480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108780756747399480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 141511,
+          "like_count": 6192,
+          "quote_count": 56,
+          "reply_count": 206,
+          "retweet_count": 662
+        },
+        "reply_settings": "everyone",
+        "text": "假性亲密最好的例子就是你跟你爸妈一起生活了十几年但是他们不知道你最喜欢的颜色、最喜欢吃什么喝什么、爱好、最想去的地方、最好的朋友是谁、最喜欢的电影、穿多大码的鞋、对什么过敏…他们只知道你有多懒性格多不好多么没出息多么不听话"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2109193854742315132",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 559,
+          "like_count": 872,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T11:23:38.000Z",
+        "description": "05艺术生 crypto  现象分析 深度思考 润学",
+        "id": "1938921175918485504",
+        "is_identity_verified": false,
+        "location": "Norway",
+        "most_recent_tweet_id": "2109180647172603971",
+        "name": "我需要一张绿卡",
+        "pinned_tweet_id": "2106466739223777338",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938921175918485504/1776778645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938921272978624512/kd5q0-B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6046,
+          "following_count": 653,
+          "like_count": 2272,
+          "listed_count": 8,
+          "media_count": 228,
+          "tweet_count": 3010
+        },
+        "url": "",
+        "username": "DUBIANCHEOVO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

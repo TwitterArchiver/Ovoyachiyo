@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1972656423021801472",
+    "conversation_id": "2105376591853547639",
+    "created_at": "2026-09-30T19:17:50.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T20:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105376591853547639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045331704248688640",
+          "start": 3,
+          "username": "_blue_z1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105376591853547639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105288746656772334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_blue_z1: 还有央视你自己找的什么官方解说 在全国面前播放你找一个讨厌日本的人来当解说 选手自己摔了不怕像幻贺那样把自己后半辈子职业生涯摔没了吗？？到底谁会在全世界人面前装摔耍心机啊？这个游戏一贯如此 到底是不是故意暂停你自己心里最清楚吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972656423021801472",
+        "conversation_id": "2105376591853547639",
+        "created_at": "2026-09-30T19:17:50.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T20:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105376591853547639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045331704248688640",
+              "start": 3,
+              "username": "_blue_z1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105376591853547639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105288746656772334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_blue_z1: 还有央视你自己找的什么官方解说 在全国面前播放你找一个讨厌日本的人来当解说 选手自己摔了不怕像幻贺那样把自己后半辈子职业生涯摔没了吗？？到底谁会在全世界人面前装摔耍心机啊？这个游戏一贯如此 到底是不是故意暂停你自己心里最清楚吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045331704248688640",
+        "conversation_id": "2105288746656772334",
+        "created_at": "2026-09-30T13:28:46.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105288746656772334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105288746656772334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 13807,
+          "like_count": 320,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "还有央视你自己找的什么官方解说 在全国面前播放你找一个讨厌日本的人来当解说 选手自己摔了不怕像幻贺那样把自己后半辈子职业生涯摔没了吗？？到底谁会在全世界人面前装摔耍心机啊？这个游戏一贯如此 到底是不是故意暂停你自己心里最清楚吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2105376591853547639",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 548,
+          "like_count": 872,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1860
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T02:41:02.000Z",
+        "description": "@DorisuhaDandy ｜20｜🇨🇳｜sub @_xuny1\nあなたの私への態度＝私のあなたへの態度\nホームページに投稿しているものはすべて依頼したイラストです。使用したい場合は、どうぞ私にDMでご連絡ください。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "DorisuhaDandy"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "_xuny1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/_blue_z1",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/_blue_z1",
+                "start": 0,
+                "url": "https://t.co/csq6ROGYFR"
+              }
+            ]
+          }
+        },
+        "id": "2045331704248688640",
+        "is_identity_verified": false,
+        "location": "zeta win ⚡️ ",
+        "most_recent_tweet_id": "2105370388050202657",
+        "name": "亲爱吻",
+        "pinned_tweet_id": "2092657630485655923",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045331704248688640/1776581991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103066435929194496/RmuAHr_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 150,
+          "like_count": 3577,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/csq6ROGYFR",
+        "username": "_blue_z1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109642364168101888"
+      ],
+      "media_source_tweet_id": [
+        "2109642374788022705"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "conversation_id": "2109681558793904540",
+    "created_at": "2026-10-12T16:24:14.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T17:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109681558793904540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1527511279312642048",
+          "start": 3,
+          "username": "kawaue7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8bJ2mwgPwa",
+          "end": 36,
+          "expanded_url": "https://x.com/kawaue7/status/2109642374788022705/photo/1",
+          "media_key": "3_2109642364168101888",
+          "start": 13,
+          "url": "https://t.co/8bJ2mwgPwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109681558793904540",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2109642364168101888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109642374788022705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawaue7: https://t.co/8bJ2mwgPwa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2360,
+        "media_key": "3_2109642364168101888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUb0jYda4AAF89p.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109642364168101888"
+          ],
+          "media_source_tweet_id": [
+            "2109642374788022705"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "conversation_id": "2109681558793904540",
+        "created_at": "2026-10-12T16:24:14.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T17:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109681558793904540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1527511279312642048",
+              "start": 3,
+              "username": "kawaue7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bJ2mwgPwa",
+              "end": 36,
+              "expanded_url": "https://x.com/kawaue7/status/2109642374788022705/photo/1",
+              "media_key": "3_2109642364168101888",
+              "start": 13,
+              "url": "https://t.co/8bJ2mwgPwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109681558793904540",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2109642364168101888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109642374788022705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawaue7: https://t.co/8bJ2mwgPwa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109642364168101888"
+          ]
+        },
+        "author_id": "1527511279312642048",
+        "conversation_id": "2109642374788022705",
+        "created_at": "2026-10-12T13:48:32.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T14:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109642374788022705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bJ2mwgPwa",
+              "end": 23,
+              "expanded_url": "https://x.com/kawaue7/status/2109642374788022705/photo/1",
+              "media_key": "3_2109642364168101888",
+              "start": 0,
+              "url": "https://t.co/8bJ2mwgPwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109642374788022705",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2109642364168101888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 793,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8bJ2mwgPwa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2109681558793904540",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 559,
+          "like_count": 872,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-20T04:47:32.000Z",
+        "description": "雑多‖FAの使用は本人様のみ‖無断転載、AI學習禁止。何かあればDMまで‖🗝️@akiii_Ooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "akiii_Ooo"
+              }
+            ]
+          }
+        },
+        "id": "1527511279312642048",
+        "is_identity_verified": false,
+        "location": "🐿️💤",
+        "most_recent_tweet_id": "2109642374788022705",
+        "name": "ちのり",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527511279312642048/1785137253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079181993007620097/Hl9kIRkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 290,
+          "like_count": 2053,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "kawaue7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

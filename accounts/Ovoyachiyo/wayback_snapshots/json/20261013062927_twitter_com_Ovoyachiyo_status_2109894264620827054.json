@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109894248837632000"
+      ]
+    },
+    "author_id": "1972656423021801472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2109894264620827054",
+    "created_at": "2026-10-13T06:29:27.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T07:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109894264620827054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/erYwlPyKoP",
+          "end": 30,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2109894264620827054/photo/1",
+          "media_key": "3_2109894248837632000",
+          "start": 7,
+          "url": "https://t.co/erYwlPyKoP"
+        },
+        {
+          "display_url": "x.com/ovoyachiyo/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/ovoyachiyo/status/2107171292541751677",
+          "start": 31,
+          "url": "https://t.co/xGHJEdS0sb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109894264620827054",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2109894248837632000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107171292541751677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有第三关。 https://t.co/erYwlPyKoP https://t.co/xGHJEdS0sb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2109894248837632000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUfZo_-bUAAl6s8.jpg",
+        "width": 154
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107171267736743936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4tGo5bsAA8znL.jpg",
+        "width": 926
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107171267736715264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4tGo5bQAAWhZ6.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109894248837632000"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2109894264620827054",
+        "created_at": "2026-10-13T06:29:27.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T07:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109894264620827054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/erYwlPyKoP",
+              "end": 30,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2109894264620827054/photo/1",
+              "media_key": "3_2109894248837632000",
+              "start": 7,
+              "url": "https://t.co/erYwlPyKoP"
+            },
+            {
+              "display_url": "x.com/ovoyachiyo/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/ovoyachiyo/status/2107171292541751677",
+              "start": 31,
+              "url": "https://t.co/xGHJEdS0sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109894264620827054",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109894248837632000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107171292541751677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有第三关。 https://t.co/erYwlPyKoP https://t.co/xGHJEdS0sb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107171267736743936",
+            "3_2107171267736715264"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "conversation_id": "2107171292541751677",
+        "created_at": "2026-10-05T18:09:20.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T19:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107171292541751677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EDeaRKJVAG",
+              "end": 124,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2107171292541751677/photo/1",
+              "media_key": "3_2107171267736743936",
+              "start": 101,
+              "url": "https://t.co/EDeaRKJVAG"
+            },
+            {
+              "display_url": "pic.x.com/EDeaRKJVAG",
+              "end": 124,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2107171292541751677/photo/1",
+              "media_key": "3_2107171267736715264",
+              "start": 101,
+              "url": "https://t.co/EDeaRKJVAG"
+            },
+            {
+              "display_url": "x.com/ovoyachiyo/sta…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/ovoyachiyo/status/2106842950164787591",
+              "start": 125,
+              "url": "https://t.co/iZ1YWnrqIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107171292541751677",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107171267736743936"
+          },
+          {
+            "media_key": "3_2107171267736715264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2983,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106842950164787591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得这个才是最闹麻最猎奇最神秘的。\n起因是中秋节导员在学院群里发了个红包我只抢到了0.03，然后刚抢完没多久就被神秘田力发送好友申请产生如下不能被称之为对话的对话。\n可是我只是一个懵逼的客服小祥呀。 https://t.co/EDeaRKJVAG https://t.co/iZ1YWnrqIA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2109894264620827054",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 559,
+          "like_count": 872,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1875
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
